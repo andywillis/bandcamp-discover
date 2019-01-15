@@ -1,7 +1,7 @@
 const request = require('request-promise-native');
 const cheerio = require('cheerio');
 
-const hour = 1000 * 60 * 60;
+const twentyMins = 1000 * 60 * 20;
 
 function getMp3Links(html) {
   const $ = cheerio.load(html);
@@ -25,12 +25,12 @@ async function getPageLinks(url) {
 async function init(db) {
   db = db || new Map();
   const links = await getPageLinks('https://bandcamp.com/tag/electronic?page=2&sort_field=date');
-  links.forEach((link) => {
-    const { url } = link;
-    if (!db.has(url)) db.set(url, link);
+  links.forEach((obj) => {
+    const { url } = obj;
+    if (!db.has(url)) db.set(url, obj);
   });
   console.log(`Database size: ${db.size}`);
-  setTimeout(init, hour, db);
+  setTimeout(init, twentyMins, db);
 }
 
 init();
