@@ -30,7 +30,7 @@ async function init(db) {
     if (!db.has(url)) db.set(url, link);
   });
   console.log(`Database size: ${db.size}`);
-  // setTimeout(init, 30000, hour);
+  setTimeout(init, hour, db);
 }
 
 init();
