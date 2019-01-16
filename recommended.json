@@ -1,0 +1,2967 @@
+{
+  "spec_id": 60,
+  "timestamp": "16 Jan 2019 03:11:52 GMT",
+  "ui_sig": "junk",
+  "items": [
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Rose Winston",
+      "art_id": 1849437235,
+      "package_art1": null,
+      "location_text": "Pittsburgh, Pennsylvania",
+      "band_id": 2494236332,
+      "package_art4": null,
+      "item_type_id": "a2107923816solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Jarvislain",
+          "rec_staff_fan_username": null,
+          "rec_date": "15 Jan 2019 13:54:25 GMT",
+          "rec_why": "Big crush for Rose Winston. Both original and very inspired, compositions are dammed smart. Totally refreshing and inspiring. So rare, so precious.",
+          "rec_band_url_hash": {
+            "subdomain": "jarvislain",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "31 Aug 2018 02:48:12 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 2107923816,
+      "featured_track": {
+        "encodings_id": 1345505843,
+        "id": 2209421015,
+        "title": "Walk With You",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/2344c337b9815a35c139a4362abdc2fe/mp3-128/2209421015?p=0&ts=1547694713&t=edad65cc41664a854fc0437078d5e4b257a789a7&token=1547694713_8ef8ca70d43a5c603ee5247ece122a20b0458c76"
+        },
+        "duration": 260.033
+      },
+      "url_hints": {
+        "subdomain": "rosewinston",
+        "custom_domain": null,
+        "slug": "quartz",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1000,
+        "width": 1000,
+        "image_id": 14198583
+      },
+      "type": "a",
+      "primary_text": "Quartz"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Manatargaq Music",
+      "art_id": 4249631,
+      "package_art1": null,
+      "location_text": "Tallinn, Estonia",
+      "band_id": 2144468176,
+      "package_art4": null,
+      "item_type_id": "a31008419solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "KLNQMZK",
+          "rec_staff_fan_username": null,
+          "rec_date": "15 Jan 2019 08:26:39 GMT",
+          "rec_why": "Awesome Goa and Psytrance compilation from Estonia",
+          "rec_band_url_hash": {
+            "subdomain": "klnqmzk",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "13 Sep 2016 14:46:02 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 31008419,
+      "featured_track": {
+        "encodings_id": 574962733,
+        "id": 2568716973,
+        "title": "Fiery Dawn & Nova Fractal & Omneon - Kalachakra",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/2d77a6c04a198897b21ed13803606a59/mp3-128/2568716973?p=0&ts=1547694713&t=e8c9402924113ddfd8b2360b319674fcef80b43b&token=1547694713_af57fda4fc78ac1d51f755f66ed80055a563681d"
+        },
+        "duration": 559.862
+      },
+      "url_hints": {
+        "subdomain": "manatargaqmusic",
+        "custom_domain": null,
+        "slug": "v-a-inner-universe",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 900,
+        "width": 1200,
+        "image_id": 6506536
+      },
+      "type": "a",
+      "primary_text": "V.A. Inner Universe"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Switched On Rack",
+      "art_id": 4001539237,
+      "package_art1": null,
+      "location_text": null,
+      "band_id": 4242345687,
+      "package_art4": null,
+      "item_type_id": "a3282243019solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "KLNQMZK",
+          "rec_staff_fan_username": null,
+          "rec_date": "15 Jan 2019 08:26:39 GMT",
+          "rec_why": "Compilation of electronic music made with free software synth VCV Rack.",
+          "rec_band_url_hash": {
+            "subdomain": "klnqmzk",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        },
+        {
+          "rec_band_name": "Mavron Cohort",
+          "rec_staff_fan_username": null,
+          "rec_date": "01 Jun 2018 14:52:27 GMT",
+          "rec_why": "Switched On Rack is a collaboration album based on tracks made with VCV Rack, the open-source virtual modular synthesizer. Submissions are welcome for future volumes.",
+          "rec_band_url_hash": {
+            "subdomain": "spinecrone",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "19 Apr 2018 20:17:23 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 3282243019,
+      "featured_track": {
+        "encodings_id": 3276295947,
+        "id": 1571516991,
+        "title": "Synthikat - Mirror City Dub",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/b0ed3be11071061969935da373f93e48/mp3-128/1571516991?p=0&ts=1547694713&t=1176e5b694d1e62bcb52eae43a3193acf3c2109c&token=1547694713_0d051b47001fd824009840f0c63eb7c682a574c9"
+        },
+        "duration": 413.942
+      },
+      "url_hints": {
+        "subdomain": "switchedonrack",
+        "custom_domain": null,
+        "slug": "switched-on-rack-vol-2",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 512,
+        "width": 512,
+        "image_id": 12049023
+      },
+      "type": "a",
+      "primary_text": "Switched On Rack Vol. 2"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "CITYTRONIX",
+      "art_id": 2981000535,
+      "package_art1": null,
+      "location_text": "UK",
+      "band_id": 965217048,
+      "package_art4": null,
+      "item_type_id": "a835200192solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Mas Bokus",
+          "rec_staff_fan_username": null,
+          "rec_date": "15 Jan 2019 02:11:56 GMT",
+          "rec_why": "great ambient record... pure emotions put into music",
+          "rec_band_url_hash": {
+            "subdomain": "masbokus",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "06 Jan 2018 21:05:08 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 835200192,
+      "featured_track": {
+        "encodings_id": 2142412016,
+        "id": 854702054,
+        "title": "VI",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/114a1d934c871820276bec46423a77c3/mp3-128/854702054?p=0&ts=1547694713&t=444e89726a87d35ed33c269788f4a824f3430f50&token=1547694713_06829c7f085c45209cf23d256362f2edb4f3e5b4"
+        },
+        "duration": 247.299
+      },
+      "url_hints": {
+        "subdomain": "citytronix",
+        "custom_domain": null,
+        "slug": "ambient-works",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": null,
+        "width": null,
+        "image_id": null
+      },
+      "type": "a",
+      "primary_text": "AMBIENT WORKS"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Mrs Jynx",
+      "art_id": 3715093942,
+      "package_art1": null,
+      "location_text": "UK",
+      "band_id": 3008723931,
+      "package_art4": null,
+      "item_type_id": "a1613072214solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Nautical Operator",
+          "rec_staff_fan_username": null,
+          "rec_date": "14 Jan 2019 19:15:01 GMT",
+          "rec_why": "Mrs. Jynx makes some of the best electronica of our time, this record is perfect all the way through.",
+          "rec_band_url_hash": {
+            "subdomain": "petercrofton",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "05 Apr 2018 12:25:39 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1613072214,
+      "featured_track": {
+        "encodings_id": 3459399267,
+        "id": 694263388,
+        "title": "Wooshgone",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/3a322b82092fd8165cd5c13daaa8b2c3/mp3-128/694263388?p=0&ts=1547694713&t=4e2628383a446bc2c6912eb2ff187354933f128b&token=1547694713_80ee561c26102ed26363d1676710dbc87cd978d2"
+        },
+        "duration": 253.48
+      },
+      "url_hints": {
+        "subdomain": "mrsjynx1",
+        "custom_domain": null,
+        "slug": "the-standoffish-cat",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 402,
+        "width": 604,
+        "image_id": 1536631
+      },
+      "type": "a",
+      "primary_text": "The Standoffish Cat"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Blurrydog",
+      "art_id": 4227624815,
+      "package_art1": null,
+      "location_text": "Toulouse, France",
+      "band_id": 4005506330,
+      "package_art4": null,
+      "item_type_id": "a2591030010solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Emotional Skyscapes",
+          "rec_staff_fan_username": null,
+          "rec_date": "14 Jan 2019 16:45:21 GMT",
+          "rec_why": "I love it.",
+          "rec_band_url_hash": {
+            "subdomain": "emotionalskyscapes",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "06 Aug 2016 20:38:55 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 2591030010,
+      "featured_track": {
+        "encodings_id": 3207862728,
+        "id": 3581853130,
+        "title": "Home",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/ac886a7e5177ea9297273c28ae4aa631/mp3-128/3581853130?p=0&ts=1547694713&t=50d1925b363fe3953aed884eae30860bba0a5523&token=1547694713_46a0071b41215a7337f45a4c183061ab6f2cf9d1"
+        },
+        "duration": 136.687
+      },
+      "url_hints": {
+        "subdomain": "elemental95",
+        "custom_domain": null,
+        "slug": "blurrydogs-quest",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1000,
+        "width": 1000,
+        "image_id": 9896667
+      },
+      "type": "a",
+      "primary_text": "Blurrydog's Quest"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "The Tired Horizon",
+      "art_id": 38170082,
+      "package_art1": null,
+      "location_text": "Southampton, UK",
+      "band_id": 1602360287,
+      "package_art4": null,
+      "item_type_id": "a230472422solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Ade Hodges",
+          "rec_staff_fan_username": null,
+          "rec_date": "13 Jan 2019 19:18:21 GMT",
+          "rec_why": "Dream-like shards of experimental electronica from a champion knob-twiddler",
+          "rec_band_url_hash": {
+            "subdomain": "adehodges",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "27 Sep 2018 19:01:36 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 230472422,
+      "featured_track": {
+        "encodings_id": 3641262395,
+        "id": 1255118344,
+        "title": "F.A.L.L.I.N.G",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/74a2b283ef90227c75632a03667e6125/mp3-128/1255118344?p=0&ts=1547694713&t=a78b37f06c88225c1dfab31285f0d10029cf9132&token=1547694713_d0338ba9d6072ca7895e2bb4704f99d71dd1d04a"
+        },
+        "duration": 499.2
+      },
+      "url_hints": {
+        "subdomain": "thetiredhorizon",
+        "custom_domain": null,
+        "slug": "the-dragon-and-the-wolf-in-the-heart-of-the-spiral",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1000,
+        "width": 1000,
+        "image_id": 14875855
+      },
+      "type": "a",
+      "primary_text": "The Dragon and the Wolf in the Heart of the Spiral"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Jake \"virt\" Kaufman",
+      "art_id": 1897872506,
+      "package_art1": null,
+      "location_text": "Los Angeles, California",
+      "band_id": 2732415946,
+      "package_art4": null,
+      "item_type_id": "a1233556496solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Xarlable",
+          "rec_staff_fan_username": null,
+          "rec_date": "13 Jan 2019 16:58:44 GMT",
+          "rec_why": "jake kaufman good",
+          "rec_band_url_hash": {
+            "subdomain": "xarlable",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        },
+        {
+          "rec_band_name": "A_Rival",
+          "rec_staff_fan_username": null,
+          "rec_date": "20 Dec 2012 05:13:06 GMT",
+          "rec_why": "Without a doubt the CRAZIEST, most elaborate NES chiptunes in the entire world. If you're a 2A03 enthusiast, download this immediately.",
+          "rec_band_url_hash": {
+            "subdomain": "rivalrivalrival",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        },
+        {
+          "rec_band_name": "Noise Channel Radio",
+          "rec_staff_fan_username": null,
+          "rec_date": "22 Nov 2012 03:44:43 GMT",
+          "rec_why": "Jake 'virt' Kaufman produces Noise Channel and writes chiptune music of his own. Check out his latest chiptune album.",
+          "rec_band_url_hash": {
+            "subdomain": "noisechanradio",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        },
+        {
+          "rec_band_name": "minibosses",
+          "rec_staff_fan_username": null,
+          "rec_date": "15 May 2012 17:59:16 GMT",
+          "rec_why": "you probably already own this. if you don't, what's you waitings for????",
+          "rec_band_url_hash": {
+            "subdomain": "minibosses",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        },
+        {
+          "rec_band_name": "chibi-tech",
+          "rec_staff_fan_username": null,
+          "rec_date": "26 Oct 2012 22:57:39 GMT",
+          "rec_why": "Absolutely phenomenal progressive-styled NES music told with a beautiful & exciting storyline.",
+          "rec_band_url_hash": {
+            "subdomain": "chibitech",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "28 Feb 2012 01:13:07 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1233556496,
+      "featured_track": {
+        "encodings_id": 1549802779,
+        "id": 2872785861,
+        "title": "Incident Zero",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/cb73ca5086eef78545b163b903ce1681/mp3-128/2872785861?p=0&ts=1547694713&t=8114b0ba429094eb993d80500d9be67b6e3f8786&token=1547694713_7854764d569b8fe6a60c18c813393a238e3212db"
+        },
+        "duration": 348.439
+      },
+      "url_hints": {
+        "subdomain": "virt",
+        "custom_domain": null,
+        "slug": "fx4",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 480,
+        "width": 480,
+        "image_id": 5822999
+      },
+      "type": "a",
+      "primary_text": "FX4"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Ponies at Dawn",
+      "art_id": 859353561,
+      "package_art1": null,
+      "location_text": "Australia",
+      "band_id": 3743749413,
+      "package_art4": null,
+      "item_type_id": "a2533927223solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "loophoof",
+          "rec_staff_fan_username": null,
+          "rec_date": "13 Jan 2019 08:31:22 GMT",
+          "rec_why": "I collaborated with NeverLastStanding on the song Fuchsia Dream, check it out as well as the many other great songs on this album!",
+          "rec_band_url_hash": {
+            "subdomain": "loophoof",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        },
+        {
+          "rec_band_name": "A State of Sugar",
+          "rec_staff_fan_username": null,
+          "rec_date": "29 Sep 2018 18:50:06 GMT",
+          "rec_why": "If you think that brony music is dead, you definitely should check out this HUGE collaboration album by our freinds from P@D. It has 72 amazing and well crafted tracks. Go grab it now, it's worth it!",
+          "rec_band_url_hash": {
+            "subdomain": "astateofsugar",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        },
+        {
+          "rec_band_name": "SDreamExplorerS",
+          "rec_staff_fan_username": null,
+          "rec_date": "18 Sep 2018 17:12:15 GMT",
+          "rec_why": "A great music compilation I'm honored to be a part of from time to time",
+          "rec_band_url_hash": {
+            "subdomain": "sdreamexplorers",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        },
+        {
+          "rec_band_name": "MC-Arch",
+          "rec_staff_fan_username": null,
+          "rec_date": "23 Sep 2018 23:43:01 GMT",
+          "rec_why": "its P@D my dudes/duddetes/dutheys... You want the good stuff, I'll give it too you. ;)",
+          "rec_band_url_hash": {
+            "subdomain": "mc-arch",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "16 Sep 2018 02:11:22 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 2533927223,
+      "featured_track": {
+        "encodings_id": 838907567,
+        "id": 373047479,
+        "title": "My Favorite Mystery",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/df759d174638f45daa59a6281d38dd35/mp3-128/373047479?p=0&ts=1547694713&t=4a396b4de4aed98dd9c8197b6ae69e5c16fab3b5&token=1547694713_375f7ee83055a5ecffa1d2bb3eed9c013872fb7a"
+        },
+        "duration": 182.942
+      },
+      "url_hints": {
+        "subdomain": "poniesatdawn",
+        "custom_domain": null,
+        "slug": "enigma",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 800,
+        "width": 800,
+        "image_id": 5901419
+      },
+      "type": "a",
+      "primary_text": "Enigma"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "ENKO",
+      "art_id": 3624467503,
+      "package_art1": null,
+      "location_text": "The Hague, The Netherlands",
+      "band_id": 3295145187,
+      "package_art4": null,
+      "item_type_id": "a706427634solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Support Aʟʙɪᴏᴠɪx",
+          "rec_staff_fan_username": null,
+          "rec_date": "13 Jan 2019 06:58:10 GMT",
+          "rec_why": "OBS​.​CUR 24 by Enko.",
+          "rec_band_url_hash": {
+            "subdomain": "albiovix",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "07 Sep 2018 14:08:08 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 706427634,
+      "featured_track": {
+        "encodings_id": 2817027283,
+        "id": 1104144427,
+        "title": "Orogenesis",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/9ef1acf3a902b89a4dfa53b30df8efdb/mp3-128/1104144427?p=0&ts=1547694713&t=f303063015685e3d0590d1a3d176c597d409429e&token=1547694713_3d05d6f4d9cb2ac7d25952261685e59096ab0233"
+        },
+        "duration": 616.013
+      },
+      "url_hints": {
+        "subdomain": "obscur",
+        "custom_domain": null,
+        "slug": "obs-cur-24",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1242,
+        "width": 1242,
+        "image_id": 9343932
+      },
+      "type": "a",
+      "primary_text": "OBS.CUR 24"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Canopy Canvas",
+      "art_id": 3948988453,
+      "package_art1": null,
+      "location_text": "Salt Lake City, Utah",
+      "band_id": 1538079134,
+      "package_art4": null,
+      "item_type_id": "a1774605948solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "AURUNE",
+          "rec_staff_fan_username": null,
+          "rec_date": "12 Jan 2019 19:36:12 GMT",
+          "rec_why": "Incredible demonstration of emotional writing",
+          "rec_band_url_hash": {
+            "subdomain": "aurune",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2017 16:12:58 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1774605948,
+      "featured_track": {
+        "encodings_id": 658751120,
+        "id": 1057774153,
+        "title": "Act I - Prelude of Spring",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/aafb7355c4134e2eb7dd439b5e0cd1ac/mp3-128/1057774153?p=0&ts=1547694713&t=2e889783ec48a7b00932f569303986b75de4bb2c&token=1547694713_2b9ddfe39520354b777b00fb9d1ade363daeafc1"
+        },
+        "duration": 404
+      },
+      "url_hints": {
+        "subdomain": "canopycanvas",
+        "custom_domain": null,
+        "slug": "letters-from-home",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 3072,
+        "width": 4608,
+        "image_id": 8996931
+      },
+      "type": "a",
+      "primary_text": "Letters From Home"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Akkord",
+      "art_id": 3480047593,
+      "package_art1": null,
+      "location_text": "Manchester, UK",
+      "band_id": 3553622385,
+      "package_art4": null,
+      "item_type_id": "a266978253solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Cone",
+          "rec_staff_fan_username": null,
+          "rec_date": "12 Jan 2019 16:33:08 GMT",
+          "rec_why": "They come from the city closest to where I live. Why not recommend them?",
+          "rec_band_url_hash": {
+            "subdomain": "conemann",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "18 May 2015 16:48:30 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 266978253,
+      "featured_track": {
+        "encodings_id": 1297947971,
+        "id": 4094342872,
+        "title": "Channel Drift",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/881ac940c0996243fe33fb5e36a8ce38/mp3-128/4094342872?p=0&ts=1547694713&t=99d7034337aa06d93dd6185f858246e6d7488e1e&token=1547694713_f7b56fd739c64fb59131b0d83d70d0048bba8e92"
+        },
+        "duration": 325.19
+      },
+      "url_hints": {
+        "subdomain": "akkord",
+        "custom_domain": null,
+        "slug": "akkord",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1500,
+        "width": 1500,
+        "image_id": 10776580
+      },
+      "type": "a",
+      "primary_text": "Akkord"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "M. Crook + Oxherding",
+      "art_id": 1569231715,
+      "package_art1": null,
+      "location_text": "St Louis, Missouri",
+      "band_id": 584431393,
+      "package_art4": null,
+      "item_type_id": "a2441416258solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Flower Room",
+          "rec_staff_fan_username": null,
+          "rec_date": "12 Jan 2019 14:39:11 GMT",
+          "rec_why": "Stunning, deeply powerful ambient collaboration built from deconstructed-and-then-rebuilt guitar soundscapes & motifs. The packaging is gorgeous as well; this is one tape we return to often.",
+          "rec_band_url_hash": {
+            "subdomain": "flowerroomrecords",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "08 Jul 2018 19:58:41 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 2441416258,
+      "featured_track": {
+        "encodings_id": 1575749178,
+        "id": 885359936,
+        "title": "Soft Moon",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/b99de415bc2eb8f737ca345771277e8c/mp3-128/885359936?p=0&ts=1547694713&t=5345f9819521ac6ecd68dcc723ec676ba5e2edb8&token=1547694713_0bf5a1ecbfbbdd05870c7054f3d5ab039bb29f38"
+        },
+        "duration": 624.213
+      },
+      "url_hints": {
+        "subdomain": "oxherding",
+        "custom_domain": null,
+        "slug": "soft-moon-2",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1215,
+        "width": 1800,
+        "image_id": 11254510
+      },
+      "type": "a",
+      "primary_text": "Soft Moon"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Jowaa",
+      "art_id": 2462001755,
+      "package_art1": null,
+      "location_text": "Accra, Ghana",
+      "band_id": 1090051442,
+      "package_art4": null,
+      "item_type_id": "a1181980435solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Gafacci",
+          "rec_staff_fan_username": null,
+          "rec_date": "12 Jan 2019 10:07:58 GMT",
+          "rec_why": "It's Fresh.Sounds like nothing out there",
+          "rec_band_url_hash": {
+            "subdomain": "gafacci",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "23 Apr 2018 12:33:31 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1181980435,
+      "featured_track": {
+        "encodings_id": 3413594025,
+        "id": 2845074809,
+        "title": "Another round",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/5e49d73b3f860437e0fab6629972a44b/mp3-128/2845074809?p=0&ts=1547694713&t=67322beb1da3eda23daef5a14f3207e9290822ee&token=1547694713_27bb30dd6c7b73f08ab83b68554360a0eff81a14"
+        },
+        "duration": 283.13
+      },
+      "url_hints": {
+        "subdomain": "jowaa",
+        "custom_domain": null,
+        "slug": "asokpor-10",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 2000,
+        "width": 2000,
+        "image_id": 13197095
+      },
+      "type": "a",
+      "primary_text": "Asokpor 1.0"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Chris Huelsbeck",
+      "art_id": 510613459,
+      "package_art1": null,
+      "location_text": "Arizona",
+      "band_id": 3510731047,
+      "package_art4": null,
+      "item_type_id": "a1692159139solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "TEchnoIDSFear TRaNScENddor",
+          "rec_staff_fan_username": null,
+          "rec_date": "11 Jan 2019 22:52:01 GMT",
+          "rec_why": "Melodies, SFX, rhythms, old retro sound. Genius at work. Trance of Techno(logy). Turrican especially Turrican II is a game classic on Commodore Amiga 500 and all game music by genius Chris Huelsbeck.",
+          "rec_band_url_hash": {
+            "subdomain": "technoidsfeartranscenddor",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "08 Dec 2018 05:00:30 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1692159139,
+      "featured_track": {
+        "encodings_id": 559118673,
+        "id": 1147368413,
+        "title": "Vintage Village",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/601daf5106060566627b2825bcd8d6cb/mp3-128/1147368413?p=0&ts=1547694713&t=474db7568476c24f957b6c24cdeb40eb03afd86f&token=1547694713_d9538ce5bcdb80a9ff1e493d45c6a0bad91fefce"
+        },
+        "duration": 234.537
+      },
+      "url_hints": {
+        "subdomain": "chrishuelsbeck",
+        "custom_domain": null,
+        "slug": "turrican-rise-of-the-machine",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 2000,
+        "width": 3008,
+        "image_id": 6819222
+      },
+      "type": "a",
+      "primary_text": "Turrican - Rise Of The Machine"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Iasos",
+      "art_id": 1530789630,
+      "package_art1": null,
+      "location_text": "California",
+      "band_id": 2405917902,
+      "package_art4": null,
+      "item_type_id": "a770806485solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "at night, outside",
+          "rec_staff_fan_username": null,
+          "rec_date": "11 Jan 2019 12:29:33 GMT",
+          "rec_why": "IMO in top 10 greatest albums ever made of all time",
+          "rec_band_url_hash": {
+            "subdomain": "atnightoutside",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "23 May 2014 06:56:30 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 770806485,
+      "featured_track": {
+        "encodings_id": 2358929071,
+        "id": 66056464,
+        "title": "Rapture of the Heart",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/44a3969ba7937f64026a2ac976e89d7e/mp3-128/66056464?p=0&ts=1547694713&t=a083adbf6850f708b702acf1535a80e0344c29e2&token=1547694713_89d03c058571ed3ffc4e2c5e4951d37dc512ef89"
+        },
+        "duration": 288.379
+      },
+      "url_hints": {
+        "subdomain": "iasos",
+        "custom_domain": null,
+        "slug": "realms-of-light",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 500,
+        "width": 500,
+        "image_id": 9550771
+      },
+      "type": "a",
+      "primary_text": "Realms of Light"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "subskan",
+      "art_id": 2376115698,
+      "package_art1": null,
+      "location_text": "Lappersdorf, Germany",
+      "band_id": 2882019177,
+      "package_art4": null,
+      "item_type_id": "a19345493solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "subskan",
+          "rec_staff_fan_username": null,
+          "rec_date": "11 Jan 2019 10:38:17 GMT",
+          "rec_why": "'ambidextrous asylums' is the final result of a precise selection around a deliberate setup and sonic coherence as well as a re-introduction of the artist subskan and the person jean-marc.",
+          "rec_band_url_hash": {
+            "subdomain": "subskan",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "11 Sep 2017 10:38:11 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 19345493,
+      "featured_track": {
+        "encodings_id": 2471876755,
+        "id": 1680499759,
+        "title": "rupture",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/53736fc0a03087543346bf06bd72fc7c/mp3-128/1680499759?p=0&ts=1547694713&t=fdae3a8c9989ac5d0ff239a34d20003c6122c304&token=1547694713_32dfb7e648bc72ae8d2a9272d2bd4977e59a9a51"
+        },
+        "duration": 356.746
+      },
+      "url_hints": {
+        "subdomain": "hymen-records",
+        "custom_domain": null,
+        "slug": "ambidextrous-asylums",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 800,
+        "width": 800,
+        "image_id": 36534
+      },
+      "type": "a",
+      "primary_text": "ambidextrous asylums"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "subskan",
+      "art_id": 2849968257,
+      "package_art1": null,
+      "location_text": "Lappersdorf, Germany",
+      "band_id": 2882019177,
+      "package_art4": null,
+      "item_type_id": "a108228295solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "subskan",
+          "rec_staff_fan_username": null,
+          "rec_date": "11 Jan 2019 10:38:17 GMT",
+          "rec_why": "'drawback' is an album where the deep, layered history of analog sound generation brilliantly coexists with the extensive possibilities of digital manipulation.",
+          "rec_band_url_hash": {
+            "subdomain": "subskan",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "10 Sep 2018 12:43:39 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 108228295,
+      "featured_track": {
+        "encodings_id": 4229338792,
+        "id": 1594770035,
+        "title": "strips",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/02fd07df9e9773239271d577b7e5e30f/mp3-128/1594770035?p=0&ts=1547694713&t=cc18a03cf48983846df3b1e89accb320acfd9bd6&token=1547694713_66cdd7c79e578353d7a5132338c33a9514ed0aef"
+        },
+        "duration": 321.6
+      },
+      "url_hints": {
+        "subdomain": "hymen-records",
+        "custom_domain": null,
+        "slug": "drawback",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 800,
+        "width": 800,
+        "image_id": 36534
+      },
+      "type": "a",
+      "primary_text": "drawback"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "The Lab",
+      "art_id": 1713925847,
+      "package_art1": null,
+      "location_text": "Madrid",
+      "band_id": 2947786998,
+      "package_art4": null,
+      "item_type_id": "a67197010solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Miguel Lázaro",
+          "rec_staff_fan_username": null,
+          "rec_date": "11 Jan 2019 09:55:31 GMT",
+          "rec_why": "The Lab (with Jose Corredera)",
+          "rec_band_url_hash": {
+            "subdomain": "miguellazaro",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        },
+        {
+          "rec_band_name": "Silent Phenomena",
+          "rec_staff_fan_username": null,
+          "rec_date": "11 Jan 2019 09:49:26 GMT",
+          "rec_why": "The Lab project (Miguel Lázaro & Jose Corredera)",
+          "rec_band_url_hash": {
+            "subdomain": "silentphenomena",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "21 May 2013 23:16:14 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 67197010,
+      "featured_track": {
+        "encodings_id": 1882872256,
+        "id": 729400261,
+        "title": "Centipede's Dilemma",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/0add2752f6c19bef64fd0194b84ceff4/mp3-128/729400261?p=0&ts=1547694713&t=5d910113bcd046cb61482a4c3385761271a4b4a3&token=1547694713_0992923db2a028cc1a582344f5ce82d5221b469a"
+        },
+        "duration": 359.457
+      },
+      "url_hints": {
+        "subdomain": "thelabsound",
+        "custom_domain": null,
+        "slug": "analysis-paralysis",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 540,
+        "width": 960,
+        "image_id": 1432714
+      },
+      "type": "a",
+      "primary_text": "Analysis Paralysis"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Miguel Lázaro",
+      "art_id": 2806062217,
+      "package_art1": null,
+      "location_text": "Madrid, Spain",
+      "band_id": 748163483,
+      "package_art4": null,
+      "item_type_id": "a1983175948solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Silent Phenomena",
+          "rec_staff_fan_username": null,
+          "rec_date": "11 Jan 2019 09:49:26 GMT",
+          "rec_why": "Miguel Lázaro solo project",
+          "rec_band_url_hash": {
+            "subdomain": "silentphenomena",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "26 Nov 2018 13:13:29 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1983175948,
+      "featured_track": {
+        "encodings_id": 3756156850,
+        "id": 2151075221,
+        "title": "Jump Into The Water, Pt. 2",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/47ce9c8a79edb49a4b530de3ca68c6a6/mp3-128/2151075221?p=0&ts=1547694713&t=149490d1cb66947fb9f37ee1e62f0a385fa0df31&token=1547694713_cea228eab1679e6addb5872b0bb3b532ace110df"
+        },
+        "duration": 141
+      },
+      "url_hints": {
+        "subdomain": "miguellazaro",
+        "custom_domain": null,
+        "slug": "jump-into-the-water",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 2392,
+        "width": 3588,
+        "image_id": 14135467
+      },
+      "type": "a",
+      "primary_text": "Jump Into The Water"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "zabutom",
+      "art_id": 567478460,
+      "package_art1": null,
+      "location_text": "Gothenburg, Sweden",
+      "band_id": 117005922,
+      "package_art4": null,
+      "item_type_id": "a3466258862solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "eczem",
+          "rec_staff_fan_username": null,
+          "rec_date": "11 Jan 2019 09:11:38 GMT",
+          "rec_why": "Highly skilled composition from the chiptune legend himself.",
+          "rec_band_url_hash": {
+            "subdomain": "eczem",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        },
+        {
+          "rec_band_name": "Janis Geiger",
+          "rec_staff_fan_username": null,
+          "rec_date": "24 Oct 2017 11:29:19 GMT",
+          "rec_why": "it flows... the harmonies, the melodies, the instrumentations, the mood = just great. His best work yet in my opinion!",
+          "rec_band_url_hash": {
+            "subdomain": "janisgeiger",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "12 Sep 2015 20:11:54 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 3466258862,
+      "featured_track": {
+        "encodings_id": 2116957273,
+        "id": 1443258330,
+        "title": "Initiate",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/13c6da8588e644c6e59d9b396abe5c4a/mp3-128/1443258330?p=0&ts=1547694713&t=ead1b9ae8812a4d60da42fff7ad29366664e8e9e&token=1547694713_c524738879eb14acfff2f78490bc196744c22dec"
+        },
+        "duration": 444.813
+      },
+      "url_hints": {
+        "subdomain": "zabutom",
+        "custom_domain": "zabutom.se",
+        "slug": "redux34",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 594,
+        "width": 591,
+        "image_id": 12586570
+      },
+      "type": "a",
+      "primary_text": "Redux34"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Melted Self",
+      "art_id": 872958613,
+      "package_art1": null,
+      "location_text": "Australia",
+      "band_id": 1510958099,
+      "package_art4": null,
+      "item_type_id": "a4050274971solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "eczem",
+          "rec_staff_fan_username": null,
+          "rec_date": "11 Jan 2019 09:11:38 GMT",
+          "rec_why": "Will melt your face and warp your soul, possibly vice versa, and you will love it.",
+          "rec_band_url_hash": {
+            "subdomain": "eczem",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "11 Dec 2018 12:42:20 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 4050274971,
+      "featured_track": {
+        "encodings_id": 3050481188,
+        "id": 3649239431,
+        "title": "Anon's Reference to Nothing (Shortcut Mix)",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/b7910b68a388ff58d7073c8d02248f44/mp3-128/3649239431?p=0&ts=1547694713&t=e92b94d78fb60b7d180cb45d5d927b6740da4473&token=1547694713_14fa7d7e9385309d803109a0909e6a2fcfa2fbfe"
+        },
+        "duration": 522.302
+      },
+      "url_hints": {
+        "subdomain": "meltedself",
+        "custom_domain": null,
+        "slug": "titled",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 588,
+        "width": 665,
+        "image_id": 15040915
+      },
+      "type": "a",
+      "primary_text": "Titled"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "darreichungsform",
+      "art_id": 972843342,
+      "package_art1": null,
+      "location_text": "Germany",
+      "band_id": 3243847701,
+      "package_art4": null,
+      "item_type_id": "a1752094913solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "eczem",
+          "rec_staff_fan_username": null,
+          "rec_date": "11 Jan 2019 09:11:38 GMT",
+          "rec_why": "Completely immersive sound design and evolving sonic architecture.",
+          "rec_band_url_hash": {
+            "subdomain": "eczem",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "14 Sep 2018 04:53:05 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1752094913,
+      "featured_track": {
+        "encodings_id": 3806049548,
+        "id": 2136514652,
+        "title": "tebanjoyrket",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/b820fd2e55f31c19d2c9b8af25384db0/mp3-128/2136514652?p=0&ts=1547694713&t=385f37352b7ee3210cb7eb8e879e78799ba28784&token=1547694713_a8e475b07069c20796b12e36789246912de3e2f6"
+        },
+        "duration": 980.571
+      },
+      "url_hints": {
+        "subdomain": "darreichungsform",
+        "custom_domain": null,
+        "slug": "eptrer-hewq-nosql-bioi-0m-ep",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": null,
+        "width": null,
+        "image_id": null
+      },
+      "type": "a",
+      "primary_text": "eptrer-hewq-nosqL-bioi-0m EP"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Akage No Anne",
+      "art_id": 403660080,
+      "package_art1": null,
+      "location_text": "Toronto, Ontario",
+      "band_id": 791501372,
+      "package_art4": null,
+      "item_type_id": "a4057661717solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Ensh",
+          "rec_staff_fan_username": null,
+          "rec_date": "10 Jan 2019 23:22:41 GMT",
+          "rec_why": "Akage No Anne. Weird Toronto Pop",
+          "rec_band_url_hash": {
+            "subdomain": "ensh",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "01 Feb 2018 17:12:55 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 4057661717,
+      "featured_track": {
+        "encodings_id": 235228989,
+        "id": 861081950,
+        "title": "Good Cake",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/3da214d51c4ca0cb3cd8646d7a3eca61/mp3-128/861081950?p=0&ts=1547694713&t=223f7a8cb1720859af369ef5258efaf05ab7da34&token=1547694713_f8c70ffd56a357b79bc6296b2cf3eff3b24a5e23"
+        },
+        "duration": 389.558
+      },
+      "url_hints": {
+        "subdomain": "akagenoanne",
+        "custom_domain": null,
+        "slug": "good-cake",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 2849,
+        "width": 2106,
+        "image_id": 13923041
+      },
+      "type": "a",
+      "primary_text": "Good Cake"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Razorback Hollow",
+      "art_id": 3489482654,
+      "package_art1": null,
+      "location_text": "Ontario",
+      "band_id": 277767318,
+      "package_art4": null,
+      "item_type_id": "a1834672020solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Eyeshadow 2600 FM",
+          "rec_staff_fan_username": null,
+          "rec_date": "10 Jan 2019 22:57:31 GMT",
+          "rec_why": "This is the coolest music, you gotta hear it!",
+          "rec_band_url_hash": {
+            "subdomain": "eyeshadow2600fm",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "01 Sep 2018 00:07:40 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1834672020,
+      "featured_track": {
+        "encodings_id": 3553206711,
+        "id": 2646583515,
+        "title": "No Exit",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/fb89d925d99a89592103cd88b1c1e32e/mp3-128/2646583515?p=0&ts=1547694713&t=414514afbbc2e61cfab6bae61d949bbb48e5439b&token=1547694713_7d5b2fe110639f750be7bbdd04053c58a4f760ec"
+        },
+        "duration": 273.545
+      },
+      "url_hints": {
+        "subdomain": "glassapplebonzai",
+        "custom_domain": null,
+        "slug": "razorback-hollow-e-p",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1527,
+        "width": 1525,
+        "image_id": 8481327
+      },
+      "type": "a",
+      "primary_text": "Razorback Hollow E.P."
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Color Squad & Friends",
+      "art_id": 473887271,
+      "package_art1": null,
+      "location_text": "Chornobyl, Ukraine",
+      "band_id": 182783363,
+      "package_art4": null,
+      "item_type_id": "a1610964185solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "lempamo",
+          "rec_staff_fan_username": null,
+          "rec_date": "10 Jan 2019 17:56:29 GMT",
+          "rec_why": "i'm in this compilation, along with other colors",
+          "rec_band_url_hash": {
+            "subdomain": "lempamo",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "23 Dec 2018 13:54:05 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1610964185,
+      "featured_track": {
+        "encodings_id": 610727624,
+        "id": 2058887286,
+        "title": "reti7",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/ead489c7a84f8272f4bbae444931f85a/mp3-128/2058887286?p=0&ts=1547694713&t=ede5fcd20cd1c0cef603829959b5eabe534fd819&token=1547694713_3ad277584e80ba5d758a6f4584c09ec9c80ff7f8"
+        },
+        "duration": 251.418
+      },
+      "url_hints": {
+        "subdomain": "colorsquadrecords",
+        "custom_domain": null,
+        "slug": "c-o-l-o-r-s-q-u-a-d-0-5",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1500,
+        "width": 1500,
+        "image_id": 10212425
+      },
+      "type": "a",
+      "primary_text": "C O L O R S Q U A D  0 5"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Zach Schimpf",
+      "art_id": 1470777470,
+      "package_art1": null,
+      "location_text": "St Louis, Missouri",
+      "band_id": 1047206018,
+      "package_art4": null,
+      "item_type_id": "a2304443393solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Know Now",
+          "rec_staff_fan_username": null,
+          "rec_date": "10 Jan 2019 03:25:38 GMT",
+          "rec_why": "i am usually attracted to albums through their art; though, the music is the most attractive aspect to me with this album - experimental folk that never fails to attract me back for another listen!",
+          "rec_band_url_hash": {
+            "subdomain": "knownow",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "05 Aug 2016 05:29:15 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 2304443393,
+      "featured_track": {
+        "encodings_id": 1358187572,
+        "id": 3918390509,
+        "title": "DizZzy",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/6f006e8ec73ec460dbe49685559c5686/mp3-128/3918390509?p=0&ts=1547694713&t=0eebf7f6810be0d306b019106abddcf4e8dda980&token=1547694713_5b32e022894e13e76943df645031f0328fecef49"
+        },
+        "duration": 196.543
+      },
+      "url_hints": {
+        "subdomain": "zachschimpf",
+        "custom_domain": null,
+        "slug": "who-speaks-to-you",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1000,
+        "width": 1000,
+        "image_id": 10065540
+      },
+      "type": "a",
+      "primary_text": "Who Speaks to You?"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Ephere",
+      "art_id": 2112656019,
+      "package_art1": null,
+      "location_text": "France",
+      "band_id": 1355316764,
+      "package_art4": null,
+      "item_type_id": "a4264697503solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Lowless",
+          "rec_staff_fan_username": null,
+          "rec_date": "10 Jan 2019 00:40:04 GMT",
+          "rec_why": "Ephere on Kornarion for an ambient and meditative trip",
+          "rec_band_url_hash": {
+            "subdomain": "lowless",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "12 Nov 2018 15:25:17 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 4264697503,
+      "featured_track": {
+        "encodings_id": 616175980,
+        "id": 373035681,
+        "title": "Ephere - A Matter of Time",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/07417f0fb98ac77cfd6bad3a9a9b7896/mp3-128/373035681?p=0&ts=1547694713&t=fea5c40f963fcfbbd0a7d405a8fd8134357fee89&token=1547694713_1a07b052081a380b8fec773bd5e1e76d2b19c993"
+        },
+        "duration": 313.108
+      },
+      "url_hints": {
+        "subdomain": "kornarion",
+        "custom_domain": null,
+        "slug": "ephere-visions-006",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 2251,
+        "width": 2251,
+        "image_id": 13521502
+      },
+      "type": "a",
+      "primary_text": "Ephere - Visions 006"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Dycide",
+      "art_id": 3759024022,
+      "package_art1": null,
+      "location_text": "Marseille, France",
+      "band_id": 4091911162,
+      "package_art4": null,
+      "item_type_id": "a1391488492solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Lowless",
+          "rec_staff_fan_username": null,
+          "rec_date": "10 Jan 2019 00:40:04 GMT",
+          "rec_why": "First Dycide EP on Solid Shape Records",
+          "rec_band_url_hash": {
+            "subdomain": "lowless",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "05 Mar 2018 11:07:35 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1391488492,
+      "featured_track": {
+        "encodings_id": 240921389,
+        "id": 3038181983,
+        "title": "Cold",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/dc546809cf8cc65342ed7e5b4698f82c/mp3-128/3038181983?p=0&ts=1547694713&t=73660eaa1024591be8835408d58c887b8757e6db&token=1547694713_4621c31f971bcb35cf8368cb339f0efb70591b15"
+        },
+        "duration": 520.794
+      },
+      "url_hints": {
+        "subdomain": "solidshaperecords1",
+        "custom_domain": null,
+        "slug": "stream-entry",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 720,
+        "width": 960,
+        "image_id": 12865142
+      },
+      "type": "a",
+      "primary_text": "Stream Entry"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Various artists",
+      "art_id": 582924810,
+      "package_art1": null,
+      "location_text": "Melbourne, Australia",
+      "band_id": 641933613,
+      "package_art4": null,
+      "item_type_id": "a672516013solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "The HIGHER TRUTH",
+          "rec_staff_fan_username": null,
+          "rec_date": "09 Jan 2019 12:08:06 GMT",
+          "rec_why": "Check out the classic electro/pop/new romantic track 2: ‘Just can't get Enough’ by SYNTHICIDE (featuring Peter Morrison & GRYPHHUN)",
+          "rec_band_url_hash": {
+            "subdomain": "thehighertruth",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        },
+        {
+          "rec_band_name": "The Dangerous Truth",
+          "rec_staff_fan_username": null,
+          "rec_date": "18 Sep 2018 10:48:31 GMT",
+          "rec_why": "Check out the classic electro/pop/new romantic track 2: ‘Just can't get Enough’ by SYNTHICIDE (featuring Peter Morrison & GRYPHHUN)",
+          "rec_band_url_hash": {
+            "subdomain": "thedangeroustruth",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "18 Sep 2018 09:46:59 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 672516013,
+      "featured_track": {
+        "encodings_id": 666362820,
+        "id": 2409387583,
+        "title": "Everything Counts - AYSYNE",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/38567f6feb8d9b653bb125aabc300061/mp3-128/2409387583?p=0&ts=1547694713&t=dac3ee252c4af735d94668b1e88e1d4743670a5a&token=1547694713_301b813c95c9e1ce79d1735e168953f41cb44024"
+        },
+        "duration": 237.94
+      },
+      "url_hints": {
+        "subdomain": "synthicidemusic",
+        "custom_domain": null,
+        "slug": "strangelove-a-passion-for-fashion-a-synthwave-tribute-to-depeche-mode",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1153,
+        "width": 2050,
+        "image_id": 14621360
+      },
+      "type": "a",
+      "primary_text": "STRANGELOVE: A Passion for Fashion (A synthwave tribute to Depeche Mode)"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Compiled by Ancient Core",
+      "art_id": 3000708806,
+      "package_art1": null,
+      "location_text": "Romania",
+      "band_id": 1542800878,
+      "package_art4": null,
+      "item_type_id": "a2217408471solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Yestegan chaY",
+          "rec_staff_fan_username": null,
+          "rec_date": "08 Jan 2019 22:00:30 GMT",
+          "rec_why": "V.A. Ancestral Lullabies III, a charity compilation for the orphan kids @ Casuta Bucuriei (Little House of Joy), Cluj-Napoca, Romania2018. compiled by Ancient Core, hosted by Melusine Records",
+          "rec_band_url_hash": {
+            "subdomain": "yesteganchay",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "22 Dec 2018 18:08:56 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 2217408471,
+      "featured_track": {
+        "encodings_id": 4185901256,
+        "id": 908942891,
+        "title": "Logical Elements - A Purple Rose In The Sky Garden",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/9983e26b80e97cfb6c14f807136704fa/mp3-128/908942891?p=0&ts=1547694713&t=243866d1194034137eee42c9eb291dd32974c557&token=1547694713_4cb2b46f383c24b7b566a0c437ebd3a6ad9f1cbe"
+        },
+        "duration": 533.143
+      },
+      "url_hints": {
+        "subdomain": "melusinerecords",
+        "custom_domain": null,
+        "slug": "ancestral-lullabies-iii",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1248,
+        "width": 1500,
+        "image_id": 9565976
+      },
+      "type": "a",
+      "primary_text": "Ancestral Lullabies III"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "kelly moran",
+      "art_id": 801969937,
+      "package_art1": null,
+      "location_text": "New York, New York",
+      "band_id": 1979470880,
+      "package_art4": null,
+      "item_type_id": "a3704305105solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "caroline mckenzie",
+          "rec_staff_fan_username": null,
+          "rec_date": "08 Jan 2019 17:59:59 GMT",
+          "rec_why": "Moran's finest album makes it to Bandcamp. Her music is every bit as compelling as before but there's a different sense of discovery here. Makes me think of a butterfly learning how to use its wings.",
+          "rec_band_url_hash": {
+            "subdomain": "carolinemckenzie",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "07 Dec 2018 15:03:48 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 3704305105,
+      "featured_track": {
+        "encodings_id": 3180686526,
+        "id": 1468847358,
+        "title": "Autowave",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/2ab37e820362340ec192518550e8fe0a/mp3-128/1468847358?p=0&ts=1547694713&t=b15fcd658403963cc73b45f60e69c178ab1bd88c&token=1547694713_27b515d0b8099c098ff643795c35d065d5557c0a"
+        },
+        "duration": 189.54
+      },
+      "url_hints": {
+        "subdomain": "kellymoran",
+        "custom_domain": null,
+        "slug": "ultraviolet",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 897,
+        "width": 1019,
+        "image_id": 14978845
+      },
+      "type": "a",
+      "primary_text": "Ultraviolet"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "sungazer",
+      "art_id": 2615531513,
+      "package_art1": null,
+      "location_text": "Brooklyn, New York",
+      "band_id": 4084873796,
+      "package_art4": null,
+      "item_type_id": "a1838889462solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Aleksi Eeben",
+          "rec_staff_fan_username": null,
+          "rec_date": "08 Jan 2019 11:10:05 GMT",
+          "rec_why": "I had been watching Adam Neely's New Horizons in Music (BASS!) for ages, but only heard his music and Sungazer etc. much later. Sungazer Vol. 2 just released and now they call it ElectroJAZZ! ⚡️",
+          "rec_band_url_hash": {
+            "subdomain": "aleksieeben",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "10 Dec 2018 19:06:41 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1838889462,
+      "featured_track": {
+        "encodings_id": 1342532633,
+        "id": 73647013,
+        "title": "Drunk",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/9c2e8b5c17334c575c534f9db6d4c8e4/mp3-128/73647013?p=0&ts=1547694713&t=cb656d7c89819d6d8fdc61d04ee3da2ecaae2b74&token=1547694713_049a0bdbdbead5fdd32e73f38cf34ed276430ac0"
+        },
+        "duration": 206.828
+      },
+      "url_hints": {
+        "subdomain": "sungazermusic",
+        "custom_domain": null,
+        "slug": "sungazer-vol-2",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 5472,
+        "width": 3648,
+        "image_id": 14904520
+      },
+      "type": "a",
+      "primary_text": "sungazer vol. 2"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "George Clanton",
+      "art_id": 3009101780,
+      "package_art1": null,
+      "location_text": "Brooklyn, New York",
+      "band_id": 190442540,
+      "package_art4": null,
+      "item_type_id": "a1396688067solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "S U R F I N G",
+          "rec_staff_fan_username": null,
+          "rec_date": "08 Jan 2019 03:06:50 GMT",
+          "rec_why": "George Clanton's follow up to \"100% Electronica\" is here now! You can purchase it on vinyl right now!!",
+          "rec_band_url_hash": {
+            "subdomain": "surfing100p",
+            "custom_domain": "surfing.100percentelectronica.com",
+            "rec_band_custom_domain_verified": 1
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "05 Jul 2018 16:39:03 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1396688067,
+      "featured_track": {
+        "encodings_id": 3661152120,
+        "id": 2663134094,
+        "title": "Livin' Loose",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/f1a80061cd3b808413bfbf814b0ab0fb/mp3-128/2663134094?p=0&ts=1547694713&t=c35e38a8f4500d238845a3637a6f9b25a9687be5&token=1547694713_e88f71e69a73f7b705d0ce5823a6b3316c4bf618"
+        },
+        "duration": 349.281
+      },
+      "url_hints": {
+        "subdomain": "georgeclanton",
+        "custom_domain": "music.georgeclanton.com",
+        "slug": "slide",
+        "custom_domain_verified": 1,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 2880,
+        "width": 1920,
+        "image_id": 12822758
+      },
+      "type": "a",
+      "primary_text": "Slide"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Negative Gemini",
+      "art_id": 4051955222,
+      "package_art1": null,
+      "location_text": "Los Angeles, California",
+      "band_id": 3852141734,
+      "package_art4": null,
+      "item_type_id": "a2123947177solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "S U R F I N G",
+          "rec_staff_fan_username": null,
+          "rec_date": "08 Jan 2019 03:06:50 GMT",
+          "rec_why": "Negative Gemini's latest album!! I heard there was a vinyl LP coming this week???",
+          "rec_band_url_hash": {
+            "subdomain": "surfing100p",
+            "custom_domain": "surfing.100percentelectronica.com",
+            "rec_band_custom_domain_verified": 1
+          }
+        },
+        {
+          "rec_band_name": "Satin Sheets",
+          "rec_staff_fan_username": null,
+          "rec_date": "20 Jan 2018 22:44:42 GMT",
+          "rec_why": "\"the release pairs breathy confessional lyrics with throbbing bass and heavy drum breaks to create something jarring and sublime in crystalline brilliance.\" -SPIN \"it’s a stunner.\" -Bandcamp Daily",
+          "rec_band_url_hash": {
+            "subdomain": "satinsheets100p",
+            "custom_domain": "satinsheets.100percentelectronica.com",
+            "rec_band_custom_domain_verified": 1
+          }
+        },
+        {
+          "rec_band_name": "George Clanton",
+          "rec_staff_fan_username": null,
+          "rec_date": "19 May 2018 05:51:21 GMT",
+          "rec_why": "Negative Gemini shifts her styles and remains infectious. This is her latest.",
+          "rec_band_url_hash": {
+            "subdomain": "georgeclanton",
+            "custom_domain": "music.georgeclanton.com",
+            "rec_band_custom_domain_verified": 1
+          }
+        },
+        {
+          "rec_band_name": "Equip",
+          "rec_staff_fan_username": null,
+          "rec_date": "19 May 2018 05:40:05 GMT",
+          "rec_why": "In the upside down, Negative Gemini is a pop icon.",
+          "rec_band_url_hash": {
+            "subdomain": "equip100p",
+            "custom_domain": "equip.100percentelectronica.com",
+            "rec_band_custom_domain_verified": 1
+          }
+        },
+        {
+          "rec_band_name": "Satin Sheets",
+          "rec_staff_fan_username": null,
+          "rec_date": "03 Jul 2018 08:05:29 GMT",
+          "rec_why": "my summer of 2018!",
+          "rec_band_url_hash": {
+            "subdomain": "satinsheets",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "17 Nov 2017 03:51:06 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 2123947177,
+      "featured_track": {
+        "encodings_id": 2641963384,
+        "id": 3919601070,
+        "title": "You Weren't There Anymore",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/61d8d456665ef415e214650b0a5cd52d/mp3-128/3919601070?p=0&ts=1547694713&t=2c4470f4cf1b5ee3e67e62566c7637c41a010e67&token=1547694713_d6770a8c664497bca9241ca3b83faef173de999b"
+        },
+        "duration": 296
+      },
+      "url_hints": {
+        "subdomain": "negativegemini",
+        "custom_domain": null,
+        "slug": "bad-baby-ep",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 4535,
+        "width": 3035,
+        "image_id": 14004588
+      },
+      "type": "a",
+      "primary_text": "Bad Baby EP"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Everything That Falls",
+      "art_id": 884230869,
+      "package_art1": null,
+      "location_text": "Toronto, Ontario",
+      "band_id": 1446562859,
+      "package_art4": null,
+      "item_type_id": "a1831697965solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Sergeminator",
+          "rec_staff_fan_username": null,
+          "rec_date": "07 Jan 2019 21:14:51 GMT",
+          "rec_why": "Very relaxing and trippy music! Amazing vocals! I love this album.",
+          "rec_band_url_hash": {
+            "subdomain": "sergeminator",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "25 Apr 2017 02:53:36 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1831697965,
+      "featured_track": {
+        "encodings_id": 2713801415,
+        "id": 3577298312,
+        "title": "Detour",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/a4f1c090bb3c740146c81bf1c3450890/mp3-128/3577298312?p=0&ts=1547694713&t=3a828ce9cf9ea498f24d68cfb0c3c836f3e0b6d1&token=1547694713_1fea4fd2239592e6a0ae9acd9b0db9147accaca3"
+        },
+        "duration": 259.072
+      },
+      "url_hints": {
+        "subdomain": "everythingthatfalls",
+        "custom_domain": null,
+        "slug": "should-i-just-go",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": null,
+        "width": null,
+        "image_id": null
+      },
+      "type": "a",
+      "primary_text": "Should I Just Go"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "John French",
+      "art_id": 3184567401,
+      "package_art1": null,
+      "location_text": "England, UK",
+      "band_id": 1467211149,
+      "package_art4": null,
+      "item_type_id": "a2425393982solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "EdenShard",
+          "rec_staff_fan_username": null,
+          "rec_date": "07 Jan 2019 17:56:23 GMT",
+          "rec_why": "Refactored is a collection of John's recent musical work.",
+          "rec_band_url_hash": {
+            "subdomain": "edenshard",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "07 Jan 2019 17:38:30 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 2425393982,
+      "featured_track": {
+        "encodings_id": 469799866,
+        "id": 3837391392,
+        "title": "Noble 10",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/ded250af19e202d91babc8dcb86a397f/mp3-128/3837391392?p=0&ts=1547694713&t=3f33d6b5c9ef18c37c6054be6d1d896e0284fb96&token=1547694713_efa07d56feed453f5849b860408d506113be30d2"
+        },
+        "duration": 227.18
+      },
+      "url_hints": {
+        "subdomain": "jerion",
+        "custom_domain": null,
+        "slug": "refactored",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 799,
+        "width": 799,
+        "image_id": 9518201
+      },
+      "type": "a",
+      "primary_text": "Refactored"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "DOYA",
+      "art_id": 1829835522,
+      "package_art1": null,
+      "location_text": "Portland, Oregon",
+      "band_id": 1803454609,
+      "package_art4": null,
+      "item_type_id": "a2527307254solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "로파이 House",
+          "rec_staff_fan_username": null,
+          "rec_date": "07 Jan 2019 12:26:25 GMT",
+          "rec_why": "refreshing ambiance, deep drones, and driving beats.",
+          "rec_band_url_hash": {
+            "subdomain": "lofi-house",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "08 Oct 2018 21:06:13 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 2527307254,
+      "featured_track": {
+        "encodings_id": 1506011584,
+        "id": 3700052685,
+        "title": "corais-AM",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/1fedb854ddf22681ebbf1161c8afdc8c/mp3-128/3700052685?p=0&ts=1547694713&t=134cb2050f62d65c756a17edd0403edb1471fdf9&token=1547694713_08171a35e210fc2024850e44c40ac30b7bae90fb"
+        },
+        "duration": 531.429
+      },
+      "url_hints": {
+        "subdomain": "doyawave",
+        "custom_domain": null,
+        "slug": "lagoa-azul",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1178,
+        "width": 1178,
+        "image_id": 14498947
+      },
+      "type": "a",
+      "primary_text": "LAGOA~AZUL"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Aleksi Perälä",
+      "art_id": 1639714841,
+      "package_art1": null,
+      "location_text": "Lahti, Finland",
+      "band_id": 121015884,
+      "package_art4": null,
+      "item_type_id": "a1505366444solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Capsule Network",
+          "rec_staff_fan_username": null,
+          "rec_date": "06 Jan 2019 23:45:43 GMT",
+          "rec_why": "Connect. Consciousness. Colundi Every0ne",
+          "rec_band_url_hash": {
+            "subdomain": "capsulenetwork",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "24 Apr 2016 13:05:49 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1505366444,
+      "featured_track": {
+        "encodings_id": 3099979840,
+        "id": 711992895,
+        "title": "UK74R1619010",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/703862c6e58d55bd24b9c6f650d78cfe/mp3-128/711992895?p=0&ts=1547694713&t=e9256da34ff2a9d0599e222ed0df31259769ae47&token=1547694713_a4f0c4b30845402662fadb55a7211f475645cf98"
+        },
+        "duration": 271.515
+      },
+      "url_hints": {
+        "subdomain": "aleksiperala",
+        "custom_domain": null,
+        "slug": "connection",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 3024,
+        "width": 3024,
+        "image_id": 12989565
+      },
+      "type": "a",
+      "primary_text": "Connection"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Anaxander, Snuff Crew, Isoul8 and Ricardo Miranda",
+      "art_id": 1580863386,
+      "package_art1": null,
+      "location_text": "Chicago, Illinois",
+      "band_id": 49954118,
+      "package_art4": null,
+      "item_type_id": "a745397051solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Strictly Jaz Unit Muzic",
+          "rec_staff_fan_username": null,
+          "rec_date": "05 Jan 2019 21:30:21 GMT",
+          "rec_why": "\"Street Slang\" by Anaxander starts with on a bed of beats and bass and gets richer from there, with keys and boogie soul effects.",
+          "rec_band_url_hash": {
+            "subdomain": "strictlyjazunitmuzic",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "19 Dec 2018 03:13:24 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 745397051,
+      "featured_track": {
+        "encodings_id": 2898148347,
+        "id": 3092263408,
+        "title": "Street Slang",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/53824c9986cc8a61b86e1ab1c659f869/mp3-128/3092263408?p=0&ts=1547694713&t=99b6fdee57dc4b049b8391ef84ee26f853539c4f&token=1547694713_3bed8612c452f0e6f75bb2432968cc83a499ddaf"
+        },
+        "duration": 306.942
+      },
+      "url_hints": {
+        "subdomain": "noblesquarerecordings",
+        "custom_domain": null,
+        "slug": "boogie-vibes",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 778,
+        "width": 1144,
+        "image_id": 7316600
+      },
+      "type": "a",
+      "primary_text": "Boogie Vibes"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Ricardo Miranda",
+      "art_id": 1957289289,
+      "package_art1": null,
+      "location_text": "Chicago, Illinois",
+      "band_id": 49954118,
+      "package_art4": null,
+      "item_type_id": "a2738469865solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Strictly Jaz Unit Muzic",
+          "rec_staff_fan_username": null,
+          "rec_date": "05 Jan 2019 21:30:21 GMT",
+          "rec_why": "SMILE AND BE is a significant deep meaning message to Ricardo Miranda's loved ones. Included in this EP release is an Instrumental and Drums mix. DJ BOLO on spoken word.",
+          "rec_band_url_hash": {
+            "subdomain": "strictlyjazunitmuzic",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "29 Apr 2016 16:57:14 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 2738469865,
+      "featured_track": {
+        "encodings_id": 2046610357,
+        "id": 3494713088,
+        "title": "Smile And Be",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/7dd20b802aa23d6128443a46d97fd260/mp3-128/3494713088?p=0&ts=1547694713&t=a2a813a833c81228b65312a46adccb1002e71d65&token=1547694713_3d02bfc9e025aae45719ab24ec3c91162540c9e7"
+        },
+        "duration": 528.513
+      },
+      "url_hints": {
+        "subdomain": "noblesquarerecordings",
+        "custom_domain": null,
+        "slug": "smile-and-be-ep",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 778,
+        "width": 1144,
+        "image_id": 7316600
+      },
+      "type": "a",
+      "primary_text": "Smile And Be EP"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Sequentek",
+      "art_id": 3917642232,
+      "package_art1": null,
+      "location_text": "Poland",
+      "band_id": 1081047818,
+      "package_art4": null,
+      "item_type_id": "a3427290768solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Sequentek",
+          "rec_staff_fan_username": null,
+          "rec_date": "05 Jan 2019 19:08:37 GMT",
+          "rec_why": "First release as Sequentek on Kicksomatic.",
+          "rec_band_url_hash": {
+            "subdomain": "sequentek",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "28 Dec 2018 00:06:19 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 3427290768,
+      "featured_track": {
+        "encodings_id": 3321598945,
+        "id": 3304847130,
+        "title": "Kwadrat (Original Mix)",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/dac9c36362bd6fdd8955d624adfaa3a7/mp3-128/3304847130?p=0&ts=1547694713&t=0356abc113ffdcbe472dcbac28bff6faf0c80726&token=1547694713_c6158bdd13270f814a0a24b0b67e29f66f789a7f"
+        },
+        "duration": 249.6
+      },
+      "url_hints": {
+        "subdomain": "kicksomatic",
+        "custom_domain": null,
+        "slug": "kwadrat",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 2500,
+        "width": 2500,
+        "image_id": 15141041
+      },
+      "type": "a",
+      "primary_text": "Kwadrat"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "EAN & Jon1st",
+      "art_id": 3321363223,
+      "package_art1": null,
+      "location_text": "London, UK",
+      "band_id": 3625679562,
+      "package_art4": null,
+      "item_type_id": "a4023958700solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Jon1st & Shield",
+          "rec_staff_fan_username": null,
+          "rec_date": "05 Jan 2019 16:13:23 GMT",
+          "rec_why": "Jon's recent EP with EAN - all the arps you could ever want!",
+          "rec_band_url_hash": {
+            "subdomain": "jon1standshield",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "06 Sep 2018 15:20:24 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 4023958700,
+      "featured_track": {
+        "encodings_id": 4265799841,
+        "id": 2575268857,
+        "title": "Ghost Life",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/40ce5e5948270c34bc038e6565ae131c/mp3-128/2575268857?p=0&ts=1547694713&t=ea13c2fb057c198dbfe88b0dd032d271544c278e&token=1547694713_ffc208fd2d2ad606588967dfe9a2dbff4973959f"
+        },
+        "duration": 302
+      },
+      "url_hints": {
+        "subdomain": "eanjon1st",
+        "custom_domain": null,
+        "slug": "volume-i",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 2000,
+        "width": 2000,
+        "image_id": 14250680
+      },
+      "type": "a",
+      "primary_text": "Volume I"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Ursula's Cartridges / Kizunaut",
+      "art_id": 4046187452,
+      "package_art1": null,
+      "location_text": "Alesund, Norway",
+      "band_id": 897295295,
+      "package_art4": null,
+      "item_type_id": "a3958598881solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Kizunaut",
+          "rec_staff_fan_username": null,
+          "rec_date": "05 Jan 2019 11:01:08 GMT",
+          "rec_why": "Check out my the split album I did with Ursula's Cartridges. It's a really well received and diverse split inspired by late 80s and early 90s electronic and industrial music.",
+          "rec_band_url_hash": {
+            "subdomain": "kizunaut",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "18 Dec 2018 18:59:45 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 3958598881,
+      "featured_track": {
+        "encodings_id": 1332193554,
+        "id": 3280847754,
+        "title": "Crisis 2033",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/4c52001f30d1e2d7c0dfa80accd063ee/mp3-128/3280847754?p=0&ts=1547694713&t=03dc3582d9d96a9e9992d71b70236b97a56b1b95&token=1547694713_1c9c8c045521ce36bf909b245d241e5729f5af8b"
+        },
+        "duration": 264.844
+      },
+      "url_hints": {
+        "subdomain": "asurarevolver",
+        "custom_domain": null,
+        "slug": "07-15-14-05-offline",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 480,
+        "width": 480,
+        "image_id": 13038978
+      },
+      "type": "a",
+      "primary_text": "07:15:14:05 OFFLINE"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "ODDEEO",
+      "art_id": 8550836,
+      "package_art1": null,
+      "location_text": "Palatine, Illinois",
+      "band_id": 138425764,
+      "package_art4": null,
+      "item_type_id": "a747575140solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Vocallective Records",
+          "rec_staff_fan_username": null,
+          "rec_date": "05 Jan 2019 00:02:43 GMT",
+          "rec_why": "ODDEEO's new album!",
+          "rec_band_url_hash": {
+            "subdomain": "vocallective",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "01 Jan 2019 01:18:34 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 747575140,
+      "featured_track": {
+        "encodings_id": 742321611,
+        "id": 3930649454,
+        "title": "[SELF]",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/606145ebc097adb735b49817e513ad7e/mp3-128/3930649454?p=0&ts=1547694713&t=7650b86a360e29c5e5b9c7b385b117e0e320e705&token=1547694713_cdfdafa92a9f842cc21fe0be110948deb053f31b"
+        },
+        "duration": 565.097
+      },
+      "url_hints": {
+        "subdomain": "oddeeo",
+        "custom_domain": null,
+        "slug": "bearer-of-the-heart",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 800,
+        "width": 800,
+        "image_id": 13530060
+      },
+      "type": "a",
+      "primary_text": "Bearer of the Heart"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Niklas Paschburg",
+      "art_id": 2940107570,
+      "package_art1": null,
+      "location_text": "Hamburg, Germany",
+      "band_id": 1556904528,
+      "package_art4": null,
+      "item_type_id": "a1497533774solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "sounds fragil",
+          "rec_staff_fan_username": null,
+          "rec_date": "04 Jan 2019 22:24:12 GMT",
+          "rec_why": "one of the 2018 highlights - paschburg's way of approaching ambient environments and combine the piano with electronics is magnificent.",
+          "rec_band_url_hash": {
+            "subdomain": "soundsfragil",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "25 Oct 2017 16:02:26 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1497533774,
+      "featured_track": {
+        "encodings_id": 3112802492,
+        "id": 3394258675,
+        "title": "Spark",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/a1626711833be1159d9ca9a134182afd/mp3-128/3394258675?p=0&ts=1547694713&t=3553c5ab213185e97c53a9411b737ffd1df3d9f7&token=1547694713_88d2aa73d056350a64056314ec2851c420475263"
+        },
+        "duration": 264.045
+      },
+      "url_hints": {
+        "subdomain": "niklaspaschburg",
+        "custom_domain": null,
+        "slug": "oceanic",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 2362,
+        "width": 3841,
+        "image_id": 12045820
+      },
+      "type": "a",
+      "primary_text": "Oceanic"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "SA-20",
+      "art_id": 3007016908,
+      "package_art1": null,
+      "location_text": null,
+      "band_id": 3984472472,
+      "package_art4": null,
+      "item_type_id": "a1161656449solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "Sophiaaaahjkl;8901",
+          "rec_staff_fan_username": null,
+          "rec_date": "04 Jan 2019 18:37:51 GMT",
+          "rec_why": "BEEN WAITING ON THIS ONE SINCE 2016 GO CHECK THIS SHIT OUT SA-20 IS THE REALEST LO-FI HIPHOP / ROCK ON THE NET! ! !!!!!",
+          "rec_band_url_hash": {
+            "subdomain": "hjkl-8901",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "04 Jan 2019 16:59:26 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1161656449,
+      "featured_track": {
+        "encodings_id": 685685144,
+        "id": 2824715647,
+        "title": "BUPPY",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/6869b04150dd125302bdabdb0f6802ca/mp3-128/2824715647?p=0&ts=1547694713&t=ad3ca1873c24e066233d2286a3e8d051ff569a8b&token=1547694713_14233549663b757f24816fcb2e7bb71c8dc41962"
+        },
+        "duration": 190.809
+      },
+      "url_hints": {
+        "subdomain": "businesscasual87",
+        "custom_domain": "music.businesscasual.biz",
+        "slug": "no-refunds",
+        "custom_domain_verified": 1,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 3000,
+        "width": 3000,
+        "image_id": 9765528
+      },
+      "type": "a",
+      "primary_text": "NO REFUNDS"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Huerco S.",
+      "art_id": 2143178467,
+      "package_art1": null,
+      "location_text": "Brooklyn, New York",
+      "band_id": 2637802765,
+      "package_art4": null,
+      "item_type_id": "a3373849943solr_hack",
+      "extras": "rec-latest",
+      "category": "solr_hack",
+      "recommendations": [
+        {
+          "rec_band_name": "A Journey of Giraffes",
+          "rec_staff_fan_username": null,
+          "rec_date": "04 Jan 2019 17:00:58 GMT",
+          "rec_why": "Colonial Patterns is the tapestry of bits of personal memory that come to you while daydreaming or just on the twilight cusp of sleep; the blurriness IS focus, and vice versa.",
+          "rec_band_url_hash": {
+            "subdomain": "ajourneyofgiraffes",
+            "custom_domain": null,
+            "rec_band_custom_domain_verified": null
+          }
+        }
+      ],
+      "alt_art_image_id": null,
+      "publish_date": "17 Jun 2013 17:13:12 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 3373849943,
+      "featured_track": {
+        "encodings_id": 910772306,
+        "id": 2431136276,
+        "title": "Struck With Deer Lungs",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/020e1e454aedbe2c97aad3da6e889e11/mp3-128/2431136276?p=0&ts=1547694713&t=fcd0d4ee126626d9d3931b0d6359b2fca796c125&token=1547694713_5ce38413954c4d2bf949b838918d34250dc6177b"
+        },
+        "duration": 136.729
+      },
+      "url_hints": {
+        "subdomain": "huercos",
+        "custom_domain": null,
+        "slug": "colonial-patterns",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 720,
+        "width": 1123,
+        "image_id": 4073801
+      },
+      "type": "a",
+      "primary_text": "Colonial Patterns"
+    }
+  ],
+  "args": {
+    "r": "latest",
+    "w": 0,
+    "f": null,
+    "p": 0,
+    "s": "rec",
+    "g": "electronic",
+    "following": false
+  },
+  "data_sig": "junk",
+  "total_count": 4308
+}

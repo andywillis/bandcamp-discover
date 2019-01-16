@@ -1,0 +1,2226 @@
+{
+  "spec_id": 60,
+  "timestamp": "16 Jan 2019 03:13:04 GMT",
+  "ui_sig": "junk",
+  "items": [
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Aussteiger",
+      "art_id": 2503533481,
+      "package_art1": null,
+      "location_text": "Berlin, Germany",
+      "band_id": 3396792254,
+      "package_art4": null,
+      "item_type_id": "a660957147solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "11 Jan 2019 23:27:22 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 660957147,
+      "featured_track": {
+        "encodings_id": 3771307586,
+        "id": 3368946799,
+        "title": "The Wings - Last Man On Moon Pt.1 - Aussteiger Rework",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/467dc1492405c0c2838836e7a4d184ef/mp3-128/3368946799?p=0&ts=1547694784&t=a1d1b6fcf4903442ffca3499d1a237d8c9954fac&token=1547694784_11807fe6374f1b4e23ce91ed3cce9da962e7a065"
+        },
+        "duration": 263.908
+      },
+      "url_hints": {
+        "subdomain": "dubdisco",
+        "custom_domain": null,
+        "slug": "dudidi-reworks-1",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1748,
+        "width": 1748,
+        "image_id": 8136382
+      },
+      "type": "a",
+      "primary_text": "DuDiDi Reworks #1"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Black Acura",
+      "art_id": 3017541040,
+      "package_art1": null,
+      "location_text": "Worcester, Massachusetts",
+      "band_id": 4127951823,
+      "package_art4": null,
+      "item_type_id": "a3706997368solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "16 Jan 2019 00:46:12 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 3706997368,
+      "featured_track": {
+        "encodings_id": 1786183390,
+        "id": 304138892,
+        "title": "m a d e l i n e",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/e83f55de4e7d7ea98ea927f21deb982f/mp3-128/304138892?p=0&ts=1547694784&t=e4231ac4d31fb53be428046ce281606ad756c709&token=1547694784_61a6dd2bb7c1f841c4de1690b9ee2cef9170af35"
+        },
+        "duration": 150.091
+      },
+      "url_hints": {
+        "subdomain": "blackacura",
+        "custom_domain": null,
+        "slug": "space-cowboy",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 535,
+        "width": 510,
+        "image_id": 15298872
+      },
+      "type": "a",
+      "primary_text": "Space Cowboy"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "The Implicit Order",
+      "art_id": 2148502924,
+      "package_art1": null,
+      "location_text": null,
+      "band_id": 3599162192,
+      "package_art4": null,
+      "item_type_id": "a1523704704solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 23:24:46 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1523704704,
+      "featured_track": {
+        "encodings_id": 2324996205,
+        "id": 423835946,
+        "title": "Eat",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/2814485a089095fe7d614ae5e1158b78/mp3-128/423835946?p=0&ts=1547694784&t=7ccd50236e4f151070f13823ec9261f88081b836&token=1547694784_efc7fc5475324d3f81e1f1a25b0778a8cc3e96f8"
+        },
+        "duration": 1964.95
+      },
+      "url_hints": {
+        "subdomain": "theimplicitorder",
+        "custom_domain": null,
+        "slug": "eat-singing",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 480,
+        "width": 480,
+        "image_id": 10133252
+      },
+      "type": "a",
+      "primary_text": "Eat, Singing"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Victor Reynart",
+      "art_id": 2467465562,
+      "package_art1": null,
+      "location_text": "France",
+      "band_id": 3907944628,
+      "package_art4": null,
+      "item_type_id": "a364213303solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "16 Jan 2019 00:02:35 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 364213303,
+      "featured_track": {
+        "encodings_id": 3152008143,
+        "id": 2844680940,
+        "title": "Nocturne",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/cddc6b8224819019c8194d344f41c6e3/mp3-128/2844680940?p=0&ts=1547694784&t=34e5af8f05bca406b4247209f3cd362fcdd1255a&token=1547694784_65496f334db478499535747d5568c3021eba55bc"
+        },
+        "duration": 128
+      },
+      "url_hints": {
+        "subdomain": "atelier18",
+        "custom_domain": null,
+        "slug": "2018",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1182,
+        "width": 1182,
+        "image_id": 13959739
+      },
+      "type": "a",
+      "primary_text": "2018"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "HR017 FACES OF AFRO NEOSOUL! MASTERPIECES!",
+      "art_id": 3325230496,
+      "package_art1": null,
+      "location_text": "Montreal, Québec",
+      "band_id": 3613662073,
+      "package_art4": null,
+      "item_type_id": "a16763942solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "09 Jan 2019 01:51:21 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 16763942,
+      "featured_track": {
+        "encodings_id": 437831803,
+        "id": 285308719,
+        "title": "HR017 FACES AFRO: NEOSOUL! MASTERPIECES!",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/7c5d513f094efdbdf4d300bbe808c4e2/mp3-128/285308719?p=0&ts=1547694784&t=10938a09fa51757f5bd91efad3df0e7752ad3845&token=1547694784_1f67b5c87e8db0d8e6f8e2f9f304fb682f06707f"
+        },
+        "duration": 1258.17
+      },
+      "url_hints": {
+        "subdomain": "huricanexperience",
+        "custom_domain": null,
+        "slug": "hr017-faces-of-afro-neosoul-masterpieces",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1080,
+        "width": 1920,
+        "image_id": 14325277
+      },
+      "type": "a",
+      "primary_text": "HR017 FACES OF AFRO NEOSOUL! MASTERPIECES!"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Antiharmonix",
+      "art_id": 66786923,
+      "package_art1": null,
+      "location_text": "Poland",
+      "band_id": 1303872098,
+      "package_art4": null,
+      "item_type_id": "a2826053420solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "16 Jan 2019 00:36:40 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 2826053420,
+      "featured_track": {
+        "encodings_id": 18490583,
+        "id": 3202374219,
+        "title": "Attic/Basement",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/aef842e839237893f2ab7084d2771cb8/mp3-128/3202374219?p=0&ts=1547694784&t=0fb61c9c84e72707ff3ace56e30869ada1db4181&token=1547694784_47bd44f94554af66f20a9d8553ee406dddc9617f"
+        },
+        "duration": 263.111
+      },
+      "url_hints": {
+        "subdomain": "antiharmonix",
+        "custom_domain": null,
+        "slug": "1-c-ep",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 540,
+        "width": 540,
+        "image_id": 15298688
+      },
+      "type": "a",
+      "primary_text": "1 °C ep"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "TOPAZ",
+      "art_id": 3870963059,
+      "package_art1": null,
+      "location_text": "Chicago, Illinois",
+      "band_id": 2425528614,
+      "package_art4": null,
+      "item_type_id": "a3093517563solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "16 Jan 2019 00:26:28 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": 1,
+      "id": 3093517563,
+      "featured_track": {
+        "encodings_id": 1630814420,
+        "id": 3724929431,
+        "title": "Tender",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/5b64b97fd77da21f16c54e00cca328c7/mp3-128/3724929431?p=0&ts=1547694784&t=e61d1106805cbea332fc57088f9d94d8c585e457&token=1547694784_8d2979a4fe68f589a98030132fb02c516d90d40c"
+        },
+        "duration": 281.036
+      },
+      "url_hints": {
+        "subdomain": "topazzz",
+        "custom_domain": null,
+        "slug": "high-society",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 3712,
+        "width": 3712,
+        "image_id": 14478324
+      },
+      "type": "a",
+      "primary_text": "High Society"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "FernandoRuiz",
+      "art_id": 1026667250,
+      "package_art1": null,
+      "location_text": "SP, Brazil",
+      "band_id": 3092391986,
+      "package_art4": null,
+      "item_type_id": "a3279191986solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 22:45:26 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 3279191986,
+      "featured_track": {
+        "encodings_id": 113150949,
+        "id": 1604225413,
+        "title": "## INTRO - J. SENNA & A. OLIVER & O. NISSIM & B. SINCLAIR FEAT E. EDWARDS - WORLD HOLD ON ( FERNANDO RUIZ PRIVATE MASH 2K18 )",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/bb2592ffeb217935014d358e107ef933/mp3-128/1604225413?p=0&ts=1547694784&t=bf3aa77e19b7e06f086dc8401d6bd870dc509846&token=1547694784_e1bf021abcb3adcd28c8ab2199a9feacaa5a1dee"
+        },
+        "duration": 355.383
+      },
+      "url_hints": {
+        "subdomain": "fernandoruiz",
+        "custom_domain": null,
+        "slug": "fernando-ruiz-pack-01",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1365,
+        "width": 1365,
+        "image_id": 15297998
+      },
+      "type": "a",
+      "primary_text": "FERNANDO RUIZ - PACK 01"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Hallucination Layer",
+      "art_id": 335144173,
+      "package_art1": null,
+      "location_text": "Highland, Indiana",
+      "band_id": 3177100743,
+      "package_art4": null,
+      "item_type_id": "a1797339992solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "16 Jan 2019 00:20:25 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1797339992,
+      "featured_track": {
+        "encodings_id": 1112787080,
+        "id": 4113035160,
+        "title": "The Mind's I",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/723ebcfa774265aaec023c00f8564312/mp3-128/4113035160?p=0&ts=1547694784&t=71f8b5925751854f3beaf25ad5c32819ce41db3a&token=1547694784_415310d559559da587c0495e8c21e0e00b347a20"
+        },
+        "duration": 326.799
+      },
+      "url_hints": {
+        "subdomain": "hallucinationlayer",
+        "custom_domain": null,
+        "slug": "a-good-boy-never-kisses-the-albatross-e-p",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 997,
+        "width": 997,
+        "image_id": 12251265
+      },
+      "type": "a",
+      "primary_text": "A Good Boy Never Kisses The Albatross [E.P.]"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Ieu-Yian",
+      "art_id": 2401438866,
+      "package_art1": null,
+      "location_text": "UK",
+      "band_id": 3353327400,
+      "package_art4": null,
+      "item_type_id": "a1847212293solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "16 Jan 2019 00:18:21 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1847212293,
+      "featured_track": {
+        "encodings_id": 1030425100,
+        "id": 2734265735,
+        "title": "its 2005 and this is cool as hell",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/5dad6ca8c53acae44a0d27dbf061ce2c/mp3-128/2734265735?p=0&ts=1547694784&t=85eca3cfc3de7daa3e33005a56dd48f2ba0942c0&token=1547694784_f2a58ee3bbaec2067bec7e7283fb8aa663c3f1f6"
+        },
+        "duration": 247.273
+      },
+      "url_hints": {
+        "subdomain": "ieu-yian",
+        "custom_domain": null,
+        "slug": "the-daily-grind",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": null,
+        "width": null,
+        "image_id": null
+      },
+      "type": "a",
+      "primary_text": "The Daily Grind"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Westcoast Goddess",
+      "art_id": 2720814700,
+      "package_art1": null,
+      "location_text": "Berlin, Germany",
+      "band_id": 513992676,
+      "package_art4": null,
+      "item_type_id": "a275152246solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "16 Jan 2019 00:08:08 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 275152246,
+      "featured_track": {
+        "encodings_id": 3193541439,
+        "id": 49117127,
+        "title": "Strung Out Ditty",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/d2a015b77b976a62929e857630b18921/mp3-128/49117127?p=0&ts=1547694784&t=c6755b5bcd8859e8216c1f16ba797f5cbea899c9&token=1547694784_9ab01466101aa7bb20b7e529882f47fb61bcf3f7"
+        },
+        "duration": 420.464
+      },
+      "url_hints": {
+        "subdomain": "westcoastgoddess",
+        "custom_domain": null,
+        "slug": "life-review",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 3744,
+        "width": 5616,
+        "image_id": 12233197
+      },
+      "type": "a",
+      "primary_text": "Life Review"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Raf Reza",
+      "art_id": 1322033991,
+      "package_art1": null,
+      "location_text": "Toronto, Ontario",
+      "band_id": 2093801631,
+      "package_art4": null,
+      "item_type_id": "a1781739419solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "16 Jan 2019 00:17:21 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1781739419,
+      "featured_track": {
+        "encodings_id": 3570219664,
+        "id": 1770564070,
+        "title": "C-Quenz",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/e7343d55e03dd8ee7ff48ec3961bd6ba/mp3-128/1770564070?p=0&ts=1547694784&t=ed5f78fe24144cb2acae56ac06793e28337a4702&token=1547694784_7aa253e18ee25e1e3ec6ccec087ca1b06365026f"
+        },
+        "duration": 363.636
+      },
+      "url_hints": {
+        "subdomain": "rafreza",
+        "custom_domain": null,
+        "slug": "moods-from-the-multiverse",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 628,
+        "width": 1200,
+        "image_id": 11686944
+      },
+      "type": "a",
+      "primary_text": "Moods From The Multiverse"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "JH1.FS3",
+      "art_id": 2966565411,
+      "package_art1": null,
+      "location_text": "Los Angeles, California",
+      "band_id": 1416362210,
+      "package_art4": null,
+      "item_type_id": "a423672954solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "11 Jan 2019 01:43:58 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 423672954,
+      "featured_track": {
+        "encodings_id": 1057562897,
+        "id": 977473482,
+        "title": "28.08.2014",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/f28e708c3048be62e8b4bacd903d1460/mp3-128/977473482?p=0&ts=1547694784&t=01a7ed80f0b25f202eac76f675cf5f8c6a6ced2b&token=1547694784_e68ed15739eb2f0fe8e265069c555ec929eec050"
+        },
+        "duration": 317.472
+      },
+      "url_hints": {
+        "subdomain": "jh1fs3",
+        "custom_domain": null,
+        "slug": "loyalty",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 320,
+        "width": 480,
+        "image_id": 15195431
+      },
+      "type": "a",
+      "primary_text": "Loyalty"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Force Damage",
+      "art_id": 3075669907,
+      "package_art1": null,
+      "location_text": "Portland, Oregon",
+      "band_id": 2928263133,
+      "package_art4": null,
+      "item_type_id": "a1498021488solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 20:05:12 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1498021488,
+      "featured_track": {
+        "encodings_id": 261385342,
+        "id": 2182874393,
+        "title": "Breadth III",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/67a97ac36a9f53ca7b7945ead5ac772b/mp3-128/2182874393?p=0&ts=1547694784&t=a87dd070df1ab5dbf7acd28cb83f46880721ed85&token=1547694784_ea30dfd06f83acebf1f96df64f8385259938f4c5"
+        },
+        "duration": 751.637
+      },
+      "url_hints": {
+        "subdomain": "forcedamage",
+        "custom_domain": null,
+        "slug": "breadth",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 500,
+        "width": 500,
+        "image_id": 11859805
+      },
+      "type": "a",
+      "primary_text": "Breadth"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Дом Быта",
+      "art_id": 1349290124,
+      "package_art1": null,
+      "location_text": "Kirov, Russia",
+      "band_id": 2556596177,
+      "package_art4": null,
+      "item_type_id": "a1573676354solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "16 Jan 2019 00:09:05 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1573676354,
+      "featured_track": {
+        "encodings_id": 980985796,
+        "id": 1249594622,
+        "title": "Холодный минимализм",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/879933918030d0c547875becc1552afc/mp3-128/1249594622?p=0&ts=1547694784&t=55cdf24b641550e8b53598119550cbde0af8ab6e&token=1547694784_ff6f7c8bbc5110b5d41f53cb8d3374bf221180f2"
+        },
+        "duration": 201.429
+      },
+      "url_hints": {
+        "subdomain": "houseofmodeoflyfe",
+        "custom_domain": null,
+        "slug": "--2",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 960,
+        "width": 1280,
+        "image_id": 14091151
+      },
+      "type": "a",
+      "primary_text": "Холодный минимализм"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "OZL",
+      "art_id": 250330810,
+      "package_art1": null,
+      "location_text": "Nizhny Novgorod, Russia",
+      "band_id": 2085826167,
+      "package_art4": null,
+      "item_type_id": "a2109145021solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "16 Jan 2019 00:00:25 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 2109145021,
+      "featured_track": {
+        "encodings_id": 2098295550,
+        "id": 3237530070,
+        "title": "Bateke",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/146ffaaaf8fe162044815ff479cb722f/mp3-128/3237530070?p=0&ts=1547694784&t=e64669fd22acf490bef176dba3539e333edf4697&token=1547694784_2eaf3499bff1525eb2a82bb731cfeb82d01b48e2"
+        },
+        "duration": 269.5
+      },
+      "url_hints": {
+        "subdomain": "ozlshow",
+        "custom_domain": null,
+        "slug": "wozld",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 480,
+        "width": 480,
+        "image_id": 15251059
+      },
+      "type": "a",
+      "primary_text": "WOZLD"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "GROODEEP",
+      "art_id": 404819603,
+      "package_art1": null,
+      "location_text": "Rio De Janeiro, Brazil",
+      "band_id": 4291729702,
+      "package_art4": null,
+      "item_type_id": "a3757251401solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 23:58:34 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 3757251401,
+      "featured_track": {
+        "encodings_id": 3117181025,
+        "id": 635420891,
+        "title": "Metade Metade",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/d7670f89352469ee5cc6e37abf946af0/mp3-128/635420891?p=0&ts=1547694784&t=d7d96a870f1ccbfa462a843a050164adaeddbceb&token=1547694784_e0e4d88566184cd3e57fc091439acac674a9cdec"
+        },
+        "duration": 476.098
+      },
+      "url_hints": {
+        "subdomain": "groodeep",
+        "custom_domain": null,
+        "slug": "fmm303-metade-metade",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 3000,
+        "width": 3000,
+        "image_id": 14783319
+      },
+      "type": "a",
+      "primary_text": "[FMM303] Metade Metade"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Colin Lyfa",
+      "art_id": 499096261,
+      "package_art1": null,
+      "location_text": "Montreal, Québec",
+      "band_id": 1984086273,
+      "package_art4": null,
+      "item_type_id": "a3938941032solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "12 Jan 2019 00:42:00 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 3938941032,
+      "featured_track": {
+        "encodings_id": 344610573,
+        "id": 1787470839,
+        "title": "Dear Friend",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/50d69b6b9947263206ee524a479fe81a/mp3-128/1787470839?p=0&ts=1547694784&t=3cdc21a0c11ce3f9c4a70b3d34fa5ab604d6582e&token=1547694784_77d460f302cb938a3d64eed35bdcea86535b9ec6"
+        },
+        "duration": 276.187
+      },
+      "url_hints": {
+        "subdomain": "colinlyfa",
+        "custom_domain": null,
+        "slug": "canarchy",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 480,
+        "width": 640,
+        "image_id": 15265503
+      },
+      "type": "a",
+      "primary_text": "CANARCHY"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "slowfreq",
+      "art_id": 1972114685,
+      "package_art1": null,
+      "location_text": "Lynchburg, Virginia",
+      "band_id": 1360005529,
+      "package_art4": null,
+      "item_type_id": "a2654090540solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 23:53:47 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 2654090540,
+      "featured_track": {
+        "encodings_id": 2707307152,
+        "id": 2557499754,
+        "title": "002",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/e2cd8d2888f6b5ddce9904bd2c443130/mp3-128/2557499754?p=0&ts=1547694784&t=734e414b81481cee45c554b4439abffa23ffbf4c&token=1547694784_765f646fc8229d262db3208bf9d570eca4af8795"
+        },
+        "duration": 221.708
+      },
+      "url_hints": {
+        "subdomain": "slowfreq",
+        "custom_domain": null,
+        "slug": "unnamed-6",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1350,
+        "width": 1350,
+        "image_id": 4889762
+      },
+      "type": "a",
+      "primary_text": "Unnamed 6"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Stephen McCaul",
+      "art_id": 846514881,
+      "package_art1": null,
+      "location_text": "Los Angeles, California",
+      "band_id": 4291695986,
+      "package_art4": null,
+      "item_type_id": "a3660660335solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 23:51:24 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 3660660335,
+      "featured_track": {
+        "encodings_id": 2852823133,
+        "id": 3197219528,
+        "title": "Ferlie Shaikh",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/3368e8c55e38bf8e46eaef3c65f3bc53/mp3-128/3197219528?p=0&ts=1547694784&t=d426171775753beb7f38c4c1c8a8f74846d7d7b1&token=1547694784_ab4755dd2f429528db3699533ca100557d060b43"
+        },
+        "duration": 1681.19
+      },
+      "url_hints": {
+        "subdomain": "stephenmccaul",
+        "custom_domain": null,
+        "slug": "winter-desert",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 600,
+        "width": 600,
+        "image_id": 12999973
+      },
+      "type": "a",
+      "primary_text": "Winter Desert"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "BioMeSS",
+      "art_id": 2255676292,
+      "package_art1": null,
+      "location_text": "Trenton, New Jersey",
+      "band_id": 2332911188,
+      "package_art4": null,
+      "item_type_id": "a27406997solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 23:50:23 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 27406997,
+      "featured_track": {
+        "encodings_id": 203388488,
+        "id": 342171764,
+        "title": "pain at Estépar",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/771e5cbae3dd738a1fd767ff1e29868d/mp3-128/342171764?p=0&ts=1547694784&t=32c8c35c65581748e8b3c58ca264d38b3d283ae0&token=1547694784_9f913e4a15ff93e7469d1a79423fc5197bb2a490"
+        },
+        "duration": 461.313
+      },
+      "url_hints": {
+        "subdomain": "biomess",
+        "custom_domain": null,
+        "slug": "disturbtion",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1000,
+        "width": 1000,
+        "image_id": 3422069
+      },
+      "type": "a",
+      "primary_text": "Disturbtion"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Giles Appleton",
+      "art_id": 2920727913,
+      "package_art1": null,
+      "location_text": "Reading, UK",
+      "band_id": 215696080,
+      "package_art4": null,
+      "item_type_id": "a3296709657solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 23:49:49 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 3296709657,
+      "featured_track": {
+        "encodings_id": 74855599,
+        "id": 447537164,
+        "title": "Untitled Forty-eight EP",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/eab5ad0f6fa9d456e0badb30e4b7bb2d/mp3-128/447537164?p=0&ts=1547694784&t=1a797d33c6c1608a044ff614c1a0403e111cb5ab&token=1547694784_8d448641cae3482db58d701fe7fdf9116ccca329"
+        },
+        "duration": 153.559
+      },
+      "url_hints": {
+        "subdomain": "abstractsonics",
+        "custom_domain": "abstractsonics.com",
+        "slug": "untitled-forty-eight-ep",
+        "custom_domain_verified": 1,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 2000,
+        "width": 2000,
+        "image_id": 12228943
+      },
+      "type": "a",
+      "primary_text": "Untitled Forty-eight EP"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Space Alpe",
+      "art_id": 3771964274,
+      "package_art1": null,
+      "location_text": "Buenos Aires, Argentina",
+      "band_id": 405256195,
+      "package_art4": null,
+      "item_type_id": "a521743839solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 23:45:53 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 521743839,
+      "featured_track": {
+        "encodings_id": 2660752777,
+        "id": 3026347011,
+        "title": "Space Alpe - Unfocused",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/c77f76cddad550eafc25bed9b189861f/mp3-128/3026347011?p=0&ts=1547694784&t=cc5064d644271550cc3570616ab562f54065aaa9&token=1547694784_bab98c7f190e6d20307b3e05e02032e5a80455a8"
+        },
+        "duration": 289.074
+      },
+      "url_hints": {
+        "subdomain": "spacealpe",
+        "custom_domain": null,
+        "slug": "space-alpe-unfocused",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 802,
+        "width": 894,
+        "image_id": 6550295
+      },
+      "type": "a",
+      "primary_text": "Space Alpe - Unfocused"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Packo Gualandris",
+      "art_id": 729739973,
+      "package_art1": null,
+      "location_text": "Differdange, Luxembourg",
+      "band_id": 322015824,
+      "package_art4": null,
+      "item_type_id": "a3915189516solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 23:34:17 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 3915189516,
+      "featured_track": {
+        "encodings_id": 1200840745,
+        "id": 3158984116,
+        "title": "Oh look a Penny! (Original Mix)",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/ba5f120aca84a825f98d72c95945127d/mp3-128/3158984116?p=0&ts=1547694784&t=d5fb5320b4e66053785fce5ffc6a65953a7d73c8&token=1547694784_605a5e5ffd339cff5c4eb6263603a1d7e46dd653"
+        },
+        "duration": 510
+      },
+      "url_hints": {
+        "subdomain": "packogualandris",
+        "custom_domain": null,
+        "slug": "oh-look-a-penny-ep",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1753,
+        "width": 2629,
+        "image_id": 12274510
+      },
+      "type": "a",
+      "primary_text": "OH LOOK A PENNY! EP"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "WITNESSING",
+      "art_id": 2785671079,
+      "package_art1": null,
+      "location_text": "Montreal, Québec",
+      "band_id": 613844690,
+      "package_art4": null,
+      "item_type_id": "a3835694003solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "11 Jan 2019 21:09:40 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": 1,
+      "id": 3835694003,
+      "featured_track": {
+        "encodings_id": 2597659173,
+        "id": 1569666308,
+        "title": "Nadie Es Ilegal",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/753c3d3124b98cb54b25a18d8b95dbdb/mp3-128/1569666308?p=0&ts=1547694784&t=e6d201511ce520bf7893b5f51b25d4745f84f7c9&token=1547694784_05e2a14fbea6133b6c92e4e19248634df1a1b0db"
+        },
+        "duration": 288.618
+      },
+      "url_hints": {
+        "subdomain": "witnessing",
+        "custom_domain": null,
+        "slug": "living-codex",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 593,
+        "width": 592,
+        "image_id": 15265195
+      },
+      "type": "a",
+      "primary_text": "Living Codex"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "MEG (LB)",
+      "art_id": 3567792607,
+      "package_art1": null,
+      "location_text": "Santa Monica, California",
+      "band_id": 3074856044,
+      "package_art4": null,
+      "item_type_id": "a6971229solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 23:25:23 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 6971229,
+      "featured_track": {
+        "encodings_id": 565620873,
+        "id": 1489901450,
+        "title": "MEG (LB) - Remembrance (Original Mix) - PAP021 - Pipe & Pochet",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/befc10c1943510e799a537474a54a3db/mp3-128/1489901450?p=0&ts=1547694784&t=3cb357ea90d6086620204bb970f781070733f351&token=1547694784_072a2a6fe91cd86cd24bf846303faf34c660be8c"
+        },
+        "duration": 422.069
+      },
+      "url_hints": {
+        "subdomain": "pipeandpochet",
+        "custom_domain": null,
+        "slug": "remembering-the-whistler-pap021",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1536,
+        "width": 1536,
+        "image_id": 12417968
+      },
+      "type": "a",
+      "primary_text": "Remembering The Whistler - PAP021"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Fektion Fekler",
+      "art_id": 973487826,
+      "package_art1": null,
+      "location_text": "Texas",
+      "band_id": 85153776,
+      "package_art4": null,
+      "item_type_id": "a343720702solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "13 Jan 2019 22:54:58 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 343720702,
+      "featured_track": {
+        "encodings_id": 3848925368,
+        "id": 800419509,
+        "title": "You'll Do",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/a96ebad848b9fe5fb2909c41366d8078/mp3-128/800419509?p=0&ts=1547694784&t=c8f2b077f35e18973db57450bddcd72aeef25f77&token=1547694784_120d2cb5a07879a520ae74497d4c72c0f1100258"
+        },
+        "duration": 102.787
+      },
+      "url_hints": {
+        "subdomain": "fektionfekler",
+        "custom_domain": null,
+        "slug": "strings-stutters-static-e-p",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1500,
+        "width": 2002,
+        "image_id": 15282212
+      },
+      "type": "a",
+      "primary_text": "Strings, Stutters & Static e.p."
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Alonewolf",
+      "art_id": 514612229,
+      "package_art1": null,
+      "location_text": "England, UK",
+      "band_id": 4235103476,
+      "package_art4": null,
+      "item_type_id": "a1345535419solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 23:07:18 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1345535419,
+      "featured_track": {
+        "encodings_id": 3568885207,
+        "id": 138288393,
+        "title": "Gregorian Doom",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/e00569884dca3ed0c9882885c8204f41/mp3-128/138288393?p=0&ts=1547694784&t=963fe709a146b7fedb739e2e0d2301a5355be49e&token=1547694784_79341875cf55175170cf2e67916e1320b2ddcae3"
+        },
+        "duration": 612.023
+      },
+      "url_hints": {
+        "subdomain": "alonewolf",
+        "custom_domain": null,
+        "slug": "gregorian-doom",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1000,
+        "width": 1000,
+        "image_id": 8870927
+      },
+      "type": "a",
+      "primary_text": "Gregorian Doom"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Delaney Mills",
+      "art_id": 2920782880,
+      "package_art1": null,
+      "location_text": "Columbia, South Carolina",
+      "band_id": 1858047197,
+      "package_art4": null,
+      "item_type_id": "a914341061solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "12 Jan 2019 05:51:22 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 914341061,
+      "featured_track": {
+        "encodings_id": 442780443,
+        "id": 1466875556,
+        "title": "cd rock",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/c19705c1ae9e1c22a1e76d82acbcc094/mp3-128/1466875556?p=0&ts=1547694784&t=9ab9a11dc9beadbd9d0e0160b1bf7687a84c1446&token=1547694784_8a3e71b2ca215a34a25c7bdb776bd3458c374ce0"
+        },
+        "duration": 132.308
+      },
+      "url_hints": {
+        "subdomain": "artjoy",
+        "custom_domain": null,
+        "slug": "fearingclearly",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1151,
+        "width": 1727,
+        "image_id": 15084134
+      },
+      "type": "a",
+      "primary_text": "FearingClearly"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Dudley Slang",
+      "art_id": 2218075251,
+      "package_art1": null,
+      "location_text": "Paris, France",
+      "band_id": 3670116869,
+      "package_art4": null,
+      "item_type_id": "a3010214720solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "10 Jan 2019 14:04:54 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 3010214720,
+      "featured_track": {
+        "encodings_id": 1573356080,
+        "id": 3948027546,
+        "title": "Graffitti",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/7cc2aba99be33b24359b09bc9e7cb7fc/mp3-128/3948027546?p=0&ts=1547694784&t=fe8b846699b01bb86b1dca84edde39c32e34ed1d&token=1547694784_21542051d40c3ee2ae09d1c7d32e769822d63b97"
+        },
+        "duration": 379.481
+      },
+      "url_hints": {
+        "subdomain": "dudleyslang",
+        "custom_domain": null,
+        "slug": "kchm3-ep",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1116,
+        "width": 1776,
+        "image_id": 14763129
+      },
+      "type": "a",
+      "primary_text": "KCHM3 EP"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Santiago Canen",
+      "art_id": 23629965,
+      "package_art1": null,
+      "location_text": "Argentina",
+      "band_id": 1103300714,
+      "package_art4": null,
+      "item_type_id": "a2710708024solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "14 Jan 2019 01:02:21 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 2710708024,
+      "featured_track": {
+        "encodings_id": 4261444940,
+        "id": 3423599425,
+        "title": "Frontier",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/a528ef7486ed6f44c4845afc6df59ba3/mp3-128/3423599425?p=0&ts=1547694784&t=36ea01a7b9db7231f05fbdfeb37e4ac5045c7da4&token=1547694784_425e627887a9961698f3537287aaa0c74014400e"
+        },
+        "duration": 266.5
+      },
+      "url_hints": {
+        "subdomain": "santiagocanen",
+        "custom_domain": null,
+        "slug": "habits",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 702,
+        "width": 734,
+        "image_id": 15281666
+      },
+      "type": "a",
+      "primary_text": "Habits"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Offworld Recordings",
+      "art_id": 1396706527,
+      "package_art1": null,
+      "location_text": "Edinburgh, UK",
+      "band_id": 2655734022,
+      "package_art4": null,
+      "item_type_id": "a159101302solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "14 Jan 2019 06:50:44 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 159101302,
+      "featured_track": {
+        "encodings_id": 648333451,
+        "id": 1839339561,
+        "title": "Drive",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/6c15eaca4bdf70155cb73723fdbd1727/mp3-128/1839339561?p=0&ts=1547694784&t=c4412e71f220200b1ab962a7fda0e4787e102eb4&token=1547694784_7323748ec27de5655d4a969423ed10625b123d8f"
+        },
+        "duration": 368.488
+      },
+      "url_hints": {
+        "subdomain": "offworldrecordings",
+        "custom_domain": null,
+        "slug": "i-wannabe-drive-ep-offworld064",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1000,
+        "width": 1000,
+        "image_id": 2970984
+      },
+      "type": "a",
+      "primary_text": "I Wannabe - Drive Ep (Offworld064)"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Big Chocolate",
+      "art_id": 3641342396,
+      "package_art1": null,
+      "location_text": "Minden, Nevada",
+      "band_id": 2152648302,
+      "package_art4": null,
+      "item_type_id": "a1387496622solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 05:50:17 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1387496622,
+      "featured_track": {
+        "encodings_id": 312188431,
+        "id": 1054244469,
+        "title": "Pusherman (Big Chocolate Rendition)",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/b524808adbe1bb5f4b9f1f9ce078a498/mp3-128/1054244469?p=0&ts=1547694784&t=6fc45605da1d294ff8ff34fcc06acc75cb2d2693&token=1547694784_28f3bf5be8b4e4e4354d9b9b5ab70ef7b8c1bceb"
+        },
+        "duration": 192
+      },
+      "url_hints": {
+        "subdomain": "bigchocolate",
+        "custom_domain": null,
+        "slug": "midways",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 3629,
+        "width": 2419,
+        "image_id": 10491660
+      },
+      "type": "a",
+      "primary_text": "Midways"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Stijn",
+      "art_id": 4108810696,
+      "package_art1": null,
+      "location_text": "Arnhem, Netherlands",
+      "band_id": 3301256770,
+      "package_art4": null,
+      "item_type_id": "a1804263736solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 22:34:12 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1804263736,
+      "featured_track": {
+        "encodings_id": 223935883,
+        "id": 131017914,
+        "title": "decay",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/fcd3e0c700f0eb54341a8edfdafb1e71/mp3-128/131017914?p=0&ts=1547694784&t=7bbfd86e8da8206fc6ecc3d4a25f0bf87cf732fb&token=1547694784_885e8df127e4e34aab4b25a1286a8681a3c003f6"
+        },
+        "duration": 568
+      },
+      "url_hints": {
+        "subdomain": "golflengte",
+        "custom_domain": null,
+        "slug": "decay",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 3456,
+        "width": 5184,
+        "image_id": 15082213
+      },
+      "type": "a",
+      "primary_text": "DECAY"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Willenskraft",
+      "art_id": 666290047,
+      "package_art1": null,
+      "location_text": "Temperley, Argentina",
+      "band_id": 2006667863,
+      "package_art4": null,
+      "item_type_id": "a3805244113solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 22:20:21 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 3805244113,
+      "featured_track": {
+        "encodings_id": 2478146343,
+        "id": 52396961,
+        "title": "Hunter-Gatherer",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/c15df85825956195b170f3cdd8695799/mp3-128/52396961?p=0&ts=1547694784&t=782ee2d818f5cfdb7a72e885f53e7d8ba5d67b4e&token=1547694784_f6f51401188f317edf053690e2107feff88beda5"
+        },
+        "duration": 425.433
+      },
+      "url_hints": {
+        "subdomain": "willenskraft",
+        "custom_domain": null,
+        "slug": "hunter-gatherer",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 640,
+        "width": 960,
+        "image_id": 15269569
+      },
+      "type": "a",
+      "primary_text": "HUNTER-GATHERER"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Shiro_51",
+      "art_id": 2833533803,
+      "package_art1": null,
+      "location_text": "Nottingham, UK",
+      "band_id": 491509202,
+      "package_art4": null,
+      "item_type_id": "a3223320571solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 22:22:36 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 3223320571,
+      "featured_track": {
+        "encodings_id": 1181862957,
+        "id": 1755110819,
+        "title": "take the edge off",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/59e6d2c0fb6cce7f34db470c0912b8c4/mp3-128/1755110819?p=0&ts=1547694784&t=a1d930f0cb8468fd46a6aee6d8947b70b24c8f59&token=1547694784_0283a360f3a65d531ec1db7ae0989371a347c454"
+        },
+        "duration": 628.715
+      },
+      "url_hints": {
+        "subdomain": "shiro51",
+        "custom_domain": null,
+        "slug": "rasmus",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 500,
+        "width": 500,
+        "image_id": 15295774
+      },
+      "type": "a",
+      "primary_text": "rasmus"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Shiro_51",
+      "art_id": 1167913760,
+      "package_art1": null,
+      "location_text": "Nottingham, UK",
+      "band_id": 491509202,
+      "package_art4": null,
+      "item_type_id": "a4190937281solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 22:22:31 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 4190937281,
+      "featured_track": {
+        "encodings_id": 3005433234,
+        "id": 1957251512,
+        "title": "tetsuo",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/cb78fa41b9ad7d2697f17b62e7f2640a/mp3-128/1957251512?p=0&ts=1547694784&t=19b2c19f7aaae65b3bdcf3eb39038cb4e686b12e&token=1547694784_bbf77df382f5ea2eee7ae77e44c62b04d534decc"
+        },
+        "duration": 379.962
+      },
+      "url_hints": {
+        "subdomain": "shiro51",
+        "custom_domain": null,
+        "slug": "aokigahara-accept",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 500,
+        "width": 500,
+        "image_id": 15295774
+      },
+      "type": "a",
+      "primary_text": "aokigahara accept"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Punch Cards",
+      "art_id": 1646379881,
+      "package_art1": null,
+      "location_text": "Telford, UK",
+      "band_id": 3629962474,
+      "package_art4": null,
+      "item_type_id": "a310807210solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 22:09:12 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 310807210,
+      "featured_track": {
+        "encodings_id": 3710230363,
+        "id": 4211903232,
+        "title": "Hazard",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/ba2ca8bbe8afd22cae1f657e23024676/mp3-128/4211903232?p=0&ts=1547694784&t=25b238bc796c7999ea323e64bfd462330f5b0290&token=1547694784_90a7598839f62302406c09a8c7dd23cf8108c954"
+        },
+        "duration": 142.639
+      },
+      "url_hints": {
+        "subdomain": "punchcards",
+        "custom_domain": null,
+        "slug": "amy-gibbon-lp",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 3000,
+        "width": 3000,
+        "image_id": 14894404
+      },
+      "type": "a",
+      "primary_text": "Amy Gibbon LP"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "TOZA",
+      "art_id": 4183990779,
+      "package_art1": null,
+      "location_text": "Bristol, UK",
+      "band_id": 3612322122,
+      "package_art4": null,
+      "item_type_id": "a1871113899solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 21:58:07 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1871113899,
+      "featured_track": {
+        "encodings_id": 2195566312,
+        "id": 1448475914,
+        "title": "Cinema",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/cc8fdc5ded712afb6338fd7d43638544/mp3-128/1448475914?p=0&ts=1547694784&t=d7982eef9bab7627691f775045d0bf09de3f471e&token=1547694784_b86b751449cdad1fccd2892512d1c641fdefa64a"
+        },
+        "duration": 120
+      },
+      "url_hints": {
+        "subdomain": "toza",
+        "custom_domain": null,
+        "slug": "cinema",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 835,
+        "width": 835,
+        "image_id": 15297331
+      },
+      "type": "a",
+      "primary_text": "Cinema"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Vanszi",
+      "art_id": 2302912488,
+      "package_art1": null,
+      "location_text": "Baltimore, Maryland",
+      "band_id": 868534917,
+      "package_art4": null,
+      "item_type_id": "a872940144solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 19:35:03 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 872940144,
+      "featured_track": {
+        "encodings_id": 1736015120,
+        "id": 2763115085,
+        "title": "Soft Movement",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/92aedf3bed0e543c7b56efde74c6a1a7/mp3-128/2763115085?p=0&ts=1547694784&t=18650493d1fbf47e9d8c74c1bfcc2ae58d8be0b2&token=1547694784_8d69ed33e1a73e4caa5a7c8032c836de59dbd74f"
+        },
+        "duration": 304.845
+      },
+      "url_hints": {
+        "subdomain": "vnzi",
+        "custom_domain": null,
+        "slug": "soft-spaces",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1200,
+        "width": 1200,
+        "image_id": 14934819
+      },
+      "type": "a",
+      "primary_text": "Soft Spaces"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "DCIM",
+      "art_id": 2621561549,
+      "package_art1": null,
+      "location_text": "Nantes, France",
+      "band_id": 1732266962,
+      "package_art4": null,
+      "item_type_id": "a1023747997solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 22:02:21 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1023747997,
+      "featured_track": {
+        "encodings_id": 1668433614,
+        "id": 1655405879,
+        "title": "/face a",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/e7c684c0b2496b70b3a8d51c07095d31/mp3-128/1655405879?p=0&ts=1547694784&t=4fc4a7fb58648969305f4187dca14d9b12cec5e2&token=1547694784_10fb9f6e795097d0de8beef6e9574096ba8cfb26"
+        },
+        "duration": 1792
+      },
+      "url_hints": {
+        "subdomain": "dcimages",
+        "custom_domain": null,
+        "slug": "fm-hotel",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1830,
+        "width": 2538,
+        "image_id": 15288978
+      },
+      "type": "a",
+      "primary_text": "fm hotel"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "kaZe",
+      "art_id": 1400043260,
+      "package_art1": null,
+      "location_text": "Albany, New York",
+      "band_id": 3770161893,
+      "package_art4": null,
+      "item_type_id": "a1492174329solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 17:28:22 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1492174329,
+      "featured_track": {
+        "encodings_id": 41981028,
+        "id": 3083495563,
+        "title": "APEX_PREDATOR_01 [199] [FinalEarth mix]",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/65ec48d42dabe3ed80ec309c04f708e9/mp3-128/3083495563?p=0&ts=1547694784&t=00a47277fa9b4ff2bf1a0fc7b9fdbfd0acca8245&token=1547694784_f0c55415d1a6939c5f59ba7946812d4df333e694"
+        },
+        "duration": 212.261
+      },
+      "url_hints": {
+        "subdomain": "yukiunknown",
+        "custom_domain": null,
+        "slug": "x-x",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 3024,
+        "width": 3024,
+        "image_id": 15295392
+      },
+      "type": "a",
+      "primary_text": "(X) ) (X) )"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "dendy crew",
+      "art_id": 2307600,
+      "package_art1": null,
+      "location_text": "Pennsylvania",
+      "band_id": 1341873178,
+      "package_art4": null,
+      "item_type_id": "a953120903solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 21:58:14 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 953120903,
+      "featured_track": {
+        "encodings_id": 1141947608,
+        "id": 1806759935,
+        "title": "elevator phantom",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/f158cbe6443e09cf0cb4da2b020d568a/mp3-128/1806759935?p=0&ts=1547694784&t=9315404ac4ec28aaf8301036591015ee07f40800&token=1547694784_25e1ce4890a28fe48a25e370a5627170ee12e93e"
+        },
+        "duration": 283.465
+      },
+      "url_hints": {
+        "subdomain": "dendycrew",
+        "custom_domain": "dendycrew.com",
+        "slug": "elevator-phantom",
+        "custom_domain_verified": 1,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 500,
+        "width": 500,
+        "image_id": 2608638
+      },
+      "type": "a",
+      "primary_text": "elevator phantom"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "shell",
+      "art_id": 4115718602,
+      "package_art1": null,
+      "location_text": "Marriottsville, Maryland",
+      "band_id": 2482775951,
+      "package_art4": null,
+      "item_type_id": "a2210588311solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "14 Jan 2019 02:18:48 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 2210588311,
+      "featured_track": {
+        "encodings_id": 3771923704,
+        "id": 2863971582,
+        "title": "sunrise",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/5383356d091801912a52f2ce851e25c6/mp3-128/2863971582?p=0&ts=1547694784&t=96317863818cd70b486e47d9347f0b2a0e6ea627&token=1547694784_320af37cb8f4d8e85f829503ac51a4006d0fdb51"
+        },
+        "duration": 188.314
+      },
+      "url_hints": {
+        "subdomain": "shell",
+        "custom_domain": null,
+        "slug": "sunset",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 480,
+        "width": 480,
+        "image_id": 13672196
+      },
+      "type": "a",
+      "primary_text": "sunset"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Christopher Rave",
+      "art_id": 3513318971,
+      "package_art1": null,
+      "location_text": "Sheffield, UK",
+      "band_id": 178078646,
+      "package_art4": null,
+      "item_type_id": "a782171874solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 20:44:57 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 782171874,
+      "featured_track": {
+        "encodings_id": 3139394971,
+        "id": 1965725392,
+        "title": "Sean Spicer Acid (Emotes Mix)",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/1c7a76cf83b439f01ced67c16c2c4d99/mp3-128/1965725392?p=0&ts=1547694784&t=6a62cd53880de50a412e9068ba4a664520b5547e&token=1547694784_5add7c4048321cacca92796fdb0b2c1b31be955a"
+        },
+        "duration": 250.493
+      },
+      "url_hints": {
+        "subdomain": "homebrewacidsociety",
+        "custom_domain": null,
+        "slug": "christopher-rave-totes-emotes",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 731,
+        "width": 815,
+        "image_id": 12384848
+      },
+      "type": "a",
+      "primary_text": "Christopher Rave - Totes Emotes"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Human Resources",
+      "art_id": 2136456899,
+      "package_art1": null,
+      "location_text": "London, UK",
+      "band_id": 3195154020,
+      "package_art4": null,
+      "item_type_id": "a723827517solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 21:17:39 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 723827517,
+      "featured_track": {
+        "encodings_id": 1843075303,
+        "id": 750844997,
+        "title": "Reagilleg JM",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/1c988a45b3e9a3138f7e0f53ff676270/mp3-128/750844997?p=0&ts=1547694784&t=b7db3f2f33fedb838d3e192c6db39a86bcfbbb16&token=1547694784_529f3374762a0213b78de3b8972bf3a0106c6f8a"
+        },
+        "duration": 241.135
+      },
+      "url_hints": {
+        "subdomain": "stayawakestayalive",
+        "custom_domain": null,
+        "slug": "human-resources-stout-tape-sasa01",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 1200,
+        "width": 1200,
+        "image_id": 15297417
+      },
+      "type": "a",
+      "primary_text": "Human Resources - Stout Tape | SASA01"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "WENDIGO",
+      "art_id": 3416556554,
+      "package_art1": null,
+      "location_text": "Cedar City, Utah",
+      "band_id": 2590437965,
+      "package_art4": null,
+      "item_type_id": "a2575679816solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 21:48:22 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 2575679816,
+      "featured_track": {
+        "encodings_id": 3578024463,
+        "id": 3701670399,
+        "title": "WENDIGO X Lepidoptera - Immolation",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/99e7b0b58066016a9152d9613e1727fe/mp3-128/3701670399?p=0&ts=1547694784&t=b991b2a6f785232f3639eefafaa5b30a5156846a&token=1547694784_4ef3a645c65f4910f51c85bf5246cae4d50c4088"
+        },
+        "duration": 184.005
+      },
+      "url_hints": {
+        "subdomain": "wendigo",
+        "custom_domain": null,
+        "slug": "disembowel-ep",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 2520,
+        "width": 2520,
+        "image_id": 15297585
+      },
+      "type": "a",
+      "primary_text": "Disembowel EP"
+    },
+    {
+      "package_art3": null,
+      "territories": null,
+      "package_title": null,
+      "secondary_text": "Boneslinger",
+      "art_id": 1107041421,
+      "package_art1": null,
+      "location_text": "Glasgow, UK",
+      "band_id": 445256652,
+      "package_art4": null,
+      "item_type_id": "a1949945088solr_hack",
+      "extras": null,
+      "category": "solr_hack",
+      "recommendations": null,
+      "alt_art_image_id": null,
+      "publish_date": "15 Jan 2019 21:47:18 GMT",
+      "score": 0,
+      "package_art2": null,
+      "is_preorder": null,
+      "id": 1949945088,
+      "featured_track": {
+        "encodings_id": 177690625,
+        "id": 2413560455,
+        "title": "Miss U",
+        "file": {
+          "mp3-128": "https://t4.bcbits.com/stream/aab1dab6edb3d922aa1d2b9c5639c0bc/mp3-128/2413560455?p=0&ts=1547694784&t=29773ed83c8fe6f2548d6c75314b86eec776bf39&token=1547694784_1bcca35ecc71a35c3fe14f3554cca1ed899a946e"
+        },
+        "duration": 182.25
+      },
+      "url_hints": {
+        "subdomain": "boneslinger",
+        "custom_domain": null,
+        "slug": "cinema",
+        "custom_domain_verified": null,
+        "item_type": "a"
+      },
+      "genre_text": "electronic",
+      "license_id": null,
+      "bio_image": {
+        "height": 666,
+        "width": 668,
+        "image_id": 10113247
+      },
+      "type": "a",
+      "primary_text": "Cinema"
+    }
+  ],
+  "args": {
+    "r": null,
+    "w": -1,
+    "f": "all",
+    "p": 0,
+    "s": "new",
+    "g": "electronic",
+    "following": false
+  },
+  "data_sig": "junk",
+  "total_count": 330
+}

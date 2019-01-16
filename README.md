@@ -1,6 +1,6 @@
-# bandcamp-rss
+# bandcamp-discover
 
-Creates RSS feeds for Bandcamp.
+Bandcamp data aggregator.
 
 ## Install
 
